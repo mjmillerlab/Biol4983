@@ -1,9 +1,9 @@
 # Emerging Disease Ecology
-*Instructor: Dr. Matthew J. Miller*
-*Office:  Sam Noble Museum, 302A*
-*Email: mjmiller@ou.edu*
-*Phone: (405) 325-2578*
-*Office Hours: Every Monday, 2:30 to 3:30 pm (or by appointment)*
+**Instructor: Dr. Matthew J. Miller**  
+**Office:  Sam Noble Museum, 302A** 
+**Email: mjmiller@ou.edu**  
+**Phone: (405) 325-2578** 
+**Office Hours: Every Monday, 2:30 to 3:30 pm (or by appointment)** 
 
 
 ## Overview
