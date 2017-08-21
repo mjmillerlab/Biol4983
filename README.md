@@ -52,18 +52,16 @@ There will be two rounds of show and tell a pathogen for each weekly meeting bet
 ### Weekly Journal Paper Discussion
 Between weeks 2 and 13, we will discuss a series of peer-reviewed scientific articles that center on a major conceptual theme in disease ecology. For each week, I have assigned a series of principle readings. All students are required to read these articles. 
 
-
 ## Grading
 You will be award points in the following manner.
 
-Discussion Participation						260 points   
-Reading Quizzes								240 points   
-Paper Discussion Leadership					200 points   
-Show and Tell A Pathogen Presentation			150 points   		
-Ecology of a Pathogen Poster					150 points   
+Discussion Participation:   260 points   
+Reading Quizzes:	   240 points    
+Paper Discussion Leadership:   200 points    
+Show and Tell A Pathogen Presentation:   150 points   
+Ecology of a Pathogen Poster:   150 points
 
 Point totals between 900 and 1000 will be awarded an “A”; point totals between 800 and 899 will be awarded a “B”; point totals between 700 and 799 will be awarded a “C”; point totals between 650 and 699 will be awarded a “D”. If you receive less than 650 points, your grade for the class will be an “F”.
-
 
 ## Weekly Topics
 ### Week 1 (August 21) What are emerging diseases…how defined, why?
@@ -72,18 +70,18 @@ Spillover Documentary:  https://www.youtube.com/watch?v=0dA-Ls9Iw24
 ### Week 2 (August 28): A global perspective on emerging disease
 Please read these four papers. They are in chronological order, so reading them in this order will give you a sense of the philosophical/theoretical development of the field. These papers will give you a broad overview of the major themes that we will be discussing during the semester.
 
-/Principle Readings:/
+*Principle Readings:*
 1. Daszak, P., A. A. Cunningham, and A. D. Hyatt. 2000. Emerging infectious diseases of wildlife--threats to biodiversity and human health. Science 287:443–449.
 2. Jones, K. E., N. G. Patel, M. A. Levy, A. Storeygard, D. Balk, J. L. Gittleman, and P. Daszak. 2008. Global trends in emerging infectious diseases. Nature 451:990–993.
 3. Kilpatrick, A. M., and S. E. Randolph. 2012. Drivers, dynamics, and control of emerging vector-borne zoonotic diseases. Lancet 380:1946–1955.
 4. Morse, S. S., J. A. K. Mazet, M. Woolhouse, C. R. Parrish, D. Carroll, W. B. Karesh, C. Zambrana-Torrelio, W. I. Lipkin, and P. Daszak. 2012. Prediction and prevention of the next pandemic zoonosis. Lancet 380:1956–1965.
 
 ### Week 3: Spillover
-/Principle Readings:/
+*Principle Readings:*
 1. Plowright, R. K., P. Eby, P. J. Hudson, I. L. Smith, D. Westcott, W. L. Bryden, D. Middleton, P. A. Reid, R. A. McFarlane, G. Martin, G. M. Tabor, L. F. Skerratt, D. L. Anderson, G. Crameri, D. Quammen, D. Jordan, P. Freeman, L.-F. Wang, J. H. Epstein, G. A. Marsh, N. Y. Kung, and H. McCallum. 2015. Ecological dynamics of emerging bat virus spillover. Proc. Biol. Sci. 282:20142124.
 2. Sharp, P. M., and B. H. Hahn. 2011. Origins of HIV and the AIDS pandemic. Cold Spring Harb. Perspect. Med. 1:a006841.
 
-/Background:/
+*Background:*
 1. Parrish, C. R., E. C. Holmes, D. M. Morens, E.-C. Park, D. S. Burke, C. H. Calisher, C. A. Laughlin, L. J. Saif, and P. Daszak. 2008. Cross-species virus transmission and the emergence of new epidemic diseases. Microbiol. Mol. Biol. Rev. 72:457–470. Am Soc Microbiol.
 
 2. Plowright, R. K., C. R. Parrish, H. McCallum, P. J. Hudson, A. I. Ko, A. L. Graham, and J. O. Lloyd-Smith. 2017. Pathways to zoonotic spillover. Nat. Rev. Microbiol. 15:502–510.
