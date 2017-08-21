@@ -74,7 +74,7 @@ https://www.youtube.com/watch?v=0dA-Ls9Iw24
 Please read these four papers. They are in chronological order, so reading them in this order will give you a sense of the philosophical/theoretical development of the field. These papers will give you a broad overview of the major themes that we will be discussing during the semester.
 
 *Principle Readings:*
-1. Daszak, P., A. A. Cunningham, and A. D. Hyatt. 2000. Emerging infectious diseases of wildlife--threats to biodiversity and human health. Science 287:443–449.[PDF](~/Biol4983/Daszak2000.pdf)
+1. Daszak, P., A. A. Cunningham, and A. D. Hyatt. 2000. Emerging infectious diseases of wildlife--threats to biodiversity and human health. Science 287:443–449.[PDF](/Biol4983/Daszak2000.pdf)
 2. Jones, K. E., N. G. Patel, M. A. Levy, A. Storeygard, D. Balk, J. L. Gittleman, and P. Daszak. 2008. Global trends in emerging infectious diseases. Nature 451:990–993.
 3. Kilpatrick, A. M., and S. E. Randolph. 2012. Drivers, dynamics, and control of emerging vector-borne zoonotic diseases. Lancet 380:1946–1955.
 4. Morse, S. S., J. A. K. Mazet, M. Woolhouse, C. R. Parrish, D. Carroll, W. B. Karesh, C. Zambrana-Torrelio, W. I. Lipkin, and P. Daszak. 2012. Prediction and prevention of the next pandemic zoonosis. Lancet 380:1956–1965.
