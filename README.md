@@ -70,11 +70,11 @@ Today’s class will go over course objectives and structure. We will also watch
 PBS Documentary: Spillover – Zika, Ebola & Beyond    
 https://www.youtube.com/watch?v=0dA-Ls9Iw24
 
-### Week 2 (August 28): A global perspective on emerging disease
+### Week 2: A global perspective on emerging disease
 Please read these four papers. They are in chronological order, so reading them in this order will give you a sense of the philosophical/theoretical development of the field. These papers will give you a broad overview of the major themes that we will be discussing during the semester.
 
 *Principle Readings:*
-1. Daszak, P., A. A. Cunningham, and A. D. Hyatt. 2000. Emerging infectious diseases of wildlife--threats to biodiversity and human health. Science 287:443–449.
+1. Daszak, P., A. A. Cunningham, and A. D. Hyatt. 2000. Emerging infectious diseases of wildlife--threats to biodiversity and human health. Science 287:443–449.[PDF](~/Biol4983/Daszak2000.pdf)
 2. Jones, K. E., N. G. Patel, M. A. Levy, A. Storeygard, D. Balk, J. L. Gittleman, and P. Daszak. 2008. Global trends in emerging infectious diseases. Nature 451:990–993.
 3. Kilpatrick, A. M., and S. E. Randolph. 2012. Drivers, dynamics, and control of emerging vector-borne zoonotic diseases. Lancet 380:1946–1955.
 4. Morse, S. S., J. A. K. Mazet, M. Woolhouse, C. R. Parrish, D. Carroll, W. B. Karesh, C. Zambrana-Torrelio, W. I. Lipkin, and P. Daszak. 2012. Prediction and prevention of the next pandemic zoonosis. Lancet 380:1956–1965.
@@ -88,7 +88,7 @@ Please read these four papers. They are in chronological order, so reading them 
 1. Parrish, C. R., E. C. Holmes, D. M. Morens, E.-C. Park, D. S. Burke, C. H. Calisher, C. A. Laughlin, L. J. Saif, and P. Daszak. 2008. Cross-species virus transmission and the emergence of new epidemic diseases. Microbiol. Mol. Biol. Rev. 72:457–470. Am Soc Microbiol.
 2. Plowright, R. K., C. R. Parrish, H. McCallum, P. J. Hudson, A. I. Ko, A. L. Graham, and J. O. Lloyd-Smith. 2017. Pathways to zoonotic spillover. Nat. Rev. Microbiol. 15:502–510.
 
-### Week 4: *Dilution effect*
+### Week 4: Dilution Effect
 *Principle Readings:*
 1. Civitello, D. J., J. Cohen, H. Fatima, N. T. Halstead, J. Liriano, T. A. McMahon, C. N. Ortega, E. L. Sauer, T. Sehgal, S. Young, and J. R. Rohr. 2015. Biodiversity inhibits parasites: Broad evidence for the dilution effect. Proc. Natl. Acad. Sci. U. S. A. 112:8667–8671. National Acad Sciences.
 2. Johnson PTJ, Preston DL, Hoverman JT, Richgels KLD. Biodiversity decreases disease through predictable changes in host community competence. Nature 2013; 494(7436): 230-3.
@@ -97,7 +97,7 @@ Please read these four papers. They are in chronological order, so reading them 
 1. Keesing F, Holt RD, Ostfeld RS. Effects of species diversity on disease risk. Ecol Lett 2006; 9(4): 485-98
 2. Keesing, F., L. K. Belden, P. Daszak, A. Dobson, C. D. Harvell, R. D. Holt, P. Hudson, A. Jolles, K. E. Jones, C. E. Mitchell, S. S. Myers, T. Bogich, and R. S. Ostfeld. 2010. Impacts of biodiversity on the emergence and transmission of infectious diseases. Nature 468:647–652. 
 
-### Week 5: *Deforestation Effect*
+### Week 5: Deforestation Effect 
 *Principle Readings:*
 1. Vittor, A. Y., W. Pan, R. H. Gilman, J. Tielsch, G. Glass, T. Shields, W. Sánchez-Lozano, V. V. Pinedo, E. Salas-Cobos, S. Flores, and J. A. Patz. 2009. Linking deforestation to malaria in the Amazon: characterization of the breeding habitat of the principal malaria vector, *Anopheles darlingi*. Am. J. Trop. Med. Hyg. 81:5–12.
 2. Gottdenker, N. L., L. F. Chaves, J. E. Calzada, A. Saldaña, and C. R. Carroll. 2012. Host life history strategy, species diversity, and habitat influence *Trypanosoma cruzi* vector infection in Changing landscapes. PLoS Negl. Trop. Dis. 6:e1884.
@@ -107,8 +107,8 @@ Please read these four papers. They are in chronological order, so reading them 
 2. Tucker Lima, J. M., A. Vittor, S. Rifai, and D. Valle. 2017. Does deforestation promote or inhibit malaria transmission in the Amazon? A systematic literature review and critical appraisal of current evidence. Philos. Trans. R. Soc. Lond. B Biol. Sci. 372.
 A. Vittor.
 
-
-### Week 6: *Evolution of Virulence*
+### Week 6: Evolution of Virulence
+This week’s readings are quite interesting, as they present two different evolutionary pathways for an evolutionary of virulence in vector-borne disease.
 *Principle Readings:*
 1. Rico-Hesse, R., L. M. Harrison, R. A. Salas, D. Tovar, A. Nisalak, C. Ramos, J. Boshell, M. T. de Mesa, R. M. Nogueira, and A. T. da Rosa. 1997. Origins of dengue type 2 viruses associated with increased pathogenicity in the Americas. Virology 230:244–251.
 2. Liu, Y., J. Liu, S. Du, C. Shan, K. Nie, R. Zhang, X.-F. Li, R. Zhang, T. Wang, C.-F. Qin, P. Wang, P.-Y. Shi, and G. Cheng. 2017. Evolutionary enhancement of Zika virus infectivity in *Aedes aegypti* mosquitoes. Nature 545:482–486.
@@ -124,13 +124,14 @@ I’ve left this week open to allow for a guest lecture from a visiting disease 
 ### Week 8: Urban - Forest Disease Dynamics
 ### Week 9: Climate change and emerging disease
 ### Week 11 Urbanization and disease
+*Principle Readings*
+1. Bayer, A. M., G. C. Hunter, R. H. Gilman, J. G. Cornejo Del Carpio, C. Naquira, C. Bern, and M. Z. Levy. 2009. Chagas disease, migration and community settlement patterns in Arequipa, Peru. PLoS Negl. Trop. Dis. 3:e567.
+
 ### Week 10: Globalization and disease
 *Principle Readings*
-Bryant, J. E., E. C. Holmes, and A. D. T. Barrett. 2007. Out of Africa: a molecular perspective on the introduction of yellow fever virus into the Americas. PLoS Pathog. 3:e75.
+1. Bryant, J. E., E. C. Holmes, and A. D. T. Barrett. 2007. Out of Africa: a molecular perspective on the introduction of yellow fever virus into the Americas. PLoS Pathog. 3:e75.
 ### Week 12: One Health
 ### Week 13: The role of ecology/environment in non-infectious disease?
-
-
 ### Week 14: ACAT Testing
 This week we will have the final three Show and Tell presentations. After these, the Biology Department will administer it’s ACAT test. ACAT stands for “Area Concentration Achievement Test” and it is a standard sort of achievement test, like you probably recall from high school. The test is not an exit exam and it does not affect your grade in this course, nor your ability to graduate. Rather, it provides the Undergraduate Studies Program with useful information about what subjects students seem to know well and which they seem to need more experience in.
 
