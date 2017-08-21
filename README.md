@@ -132,15 +132,18 @@ I’ve left this week open to allow for a guest lecture from a visiting disease 
 (Readings for weeks 8 – 12 are pending)
 ### Week 8: Urban - Forest Disease Dynamics
 ### Week 9: Climate change and emerging disease
-### Week 11 Urbanization and disease
+### Week 10: Urbanization and disease
 *Principle Readings*
 1. Bayer, A. M., G. C. Hunter, R. H. Gilman, J. G. Cornejo Del Carpio, C. Naquira, C. Bern, and M. Z. Levy. 2009. Chagas disease, migration and community settlement patterns in Arequipa, Peru. PLoS Negl. Trop. Dis. 3:e567.
 
-### Week 10: Globalization and disease
+### Week 11: Globalization and disease
 *Principle Readings*
-1. Bryant, J. E., E. C. Holmes, and A. D. T. Barrett. 2007. Out of Africa: a molecular perspective on the introduction of yellow fever virus into the Americas. PLoS Pathog. 3:e75.
+1. Bryant, J. E., E. C. Holmes, and A. D. T. Barrett. 2007. Out of Africa: a molecular perspective on the introduction of yellow fever virus into the Americas. PLoS Pathog. 3:e75.   
+
 ### Week 12: One Health
+
 ### Week 13: The role of ecology/environment in non-infectious disease?
+
 ### Week 14: ACAT Testing
 This week we will have the final three Show and Tell presentations. After these, the Biology Department will administer it’s ACAT test. ACAT stands for “Area Concentration Achievement Test” and it is a standard sort of achievement test, like you probably recall from high school. The test is not an exit exam and it does not affect your grade in this course, nor your ability to graduate. Rather, it provides the Undergraduate Studies Program with useful information about what subjects students seem to know well and which they seem to need more experience in.
 
