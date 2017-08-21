@@ -2,8 +2,10 @@
 **Instructor: Dr. Matthew J. Miller**   
 **Office:  Sam Noble Museum, 302A**  
 **Email: mjmiller@ou.edu**   
-**Phone: (405) 325-2578**    
+**Office Phone: (405) 325-2578 (I prefer email)**    
 **Office Hours: Every Monday, 2:30 to 3:30 pm (or by appointment)** 
+
+### Version 21-August-2017
 
 ## Overview
 Zika, Swine Flu, Bird Flu, West Nile, SARS. It seems like we hear about a new infectious disease threatening the world every day. It’s not fake news, or even the ubiquity of cable news. Around the world we face an increasing rate of newly emerging and re-emerging infectious diseases. This course will look to understand the drivers of emerging infectious diseases from ecological and evolutionary perspectives. This course is intentionally multi-disciplinary: it’s is equally appropriate for students interested in heath science careers as for students interested in careers in wildlife management and conservation. Because most emerging diseases are tropical in origin, much time will be spent discussing tropical emerging diseases such as Chikungunya, Zika, and Ebola. The core exercise in this course will be careful, and critical reading of the primary, peer-reviewed literature. The first goal for all students is to understand the evolutionary-ecology of disease, but a secondary one is to be able to read and interpret primary literature as scientists do.
@@ -14,7 +16,7 @@ This course is a senior seminar course, a requirement for Biology majors that is
 Disease ecology is a broad field, and there are several approaches to how this material could be taught. Given the capstone seminar nature of our course, I have chosen to focus on emerging zoonotic terrestrial diseases that affect humans. Disease ecology can also be taught in terms of wild and domestic plant diseases, marine diseases, etc. While those topics won’t be our focus in the course, the general ecological and evolutionary principles addressed in this course are applicable to those systems.
 
 ## Expectations
-(I’ve borrowed heavily from Dr. Dan Allen’s Fall 2016 Seminar Syllabus for these)
+(I’ve borrowed heavily from Dr. [Dan Allen](http://www.allenlab.org/)’s Fall 2016 Seminar Syllabus for these)
 
 This is a seminar course, which means there will be no lectures.  This means that if you miss class, you won’t be able to catch up by looking over powerpoint slides or another student’s notes. So the most important expectation  is to attend class.
 
@@ -50,7 +52,14 @@ Your presentation should begin with an overview of the basic natural history of 
 There will be two rounds of show and tell a pathogen for each weekly meeting between week 3 and week 13. During week 14, there will be three rounds. I will demonstrate a Show and Tell A Pathogen during week 2.
 
 ### Weekly Journal Paper Discussion
-Between weeks 2 and 13, we will discuss a series of peer-reviewed scientific articles that center on a major conceptual theme in disease ecology. For each week, I have assigned a series of principle readings. All students are required to read these articles. Two 
+Between weeks 2 and 13, we will discuss a series of peer-reviewed scientific articles that center on a major conceptual theme in disease ecology. For each week, I have assigned a series of principle readings. All students are required to read these articles. Reading primary literature is quite different than reading the textbook, and requires a much different level of engagement. Even experienced senior academic scientists need to read most primary literature papers several times, and have to look up terms and techniques. Do not plan on lightly skimming the paper and hoping that lab discussion goes well….it won’t. (And recall that most of your grade is determined by how well you participate in discussion). It goes without saying that you should bring either a printout or digital copy of the papers with copious annotations and notes that you have taken. It is also likely that you have had to look up several terms, topics, and methods from the paper. Please note that a reasonable understanding the methods is part of a comprehensive reading.
+
+Each week, two of you will be “discussion leaders”. The job of the discussion leader is to begin with a general overview of the topic material. You can use the “background articles that I provide for some material, but I encourage you to do your own research. Typically, this would begin with a mini-lecture to the class of the topic that you are presenting. Such a lecture would typically last 10-20 minutes. Afterwards, the discussion leaders should facilitate a classroom discussion of the two papers. Often, but not always, the papers are better discussed sequentially. But don’t forget that the two papers are related by a shared topic; it will not be uncommon to discuss findings from paper 2 during a discussion of paper 1, or *vice versa*.  One strategy is to present some of the most impactful figures from the paper, and ensure that the class fully understands the information that they convey. These figures are useful for discussion of methods, results, and significance of the results.
+
+The job of the facilitators is to move the discussion forward. We typically will have about 90 minutes for discussion; and I expect the discussion to generally last that long. If discussion stalls, I will step in an help facilitate things. But that generally suggests poor preparation on the part of the presenters and the rest of the class.
+
+### Poster Session
+Using your Show and Tell a Pathogen, create a poster that identifies important evo-ecological themes relating to your pathogen. The best posters will take figures from primary literature to illustrate a research narrative; will incorporate one or several of the topics that we have discussed during the weekly seminar; and will identify areas where future research is merited and/or will highlight the intersection of pathogen ecology with social, ethical and economic issues. 
 
 ## Grading
 You will be award points in the following manner.
