@@ -1,4 +1,9 @@
 # Emerging Disease Ecology
+*Instructor: Dr. Matthew J. Miller*
+*Office:  Sam Noble Museum, 302A*
+*Email: mjmiller@ou.edu*
+*Phone: (405) 325-2578*
+*Office Hours: Every Monday, 2:30 to 3:30 pm (or by appointment)*
 
 
 ## Overview
@@ -39,7 +44,7 @@ Each week (with the exception of week 1) will have the following format:
 As described above, the reading quiz is designed to demonstrate that you have read that week’s readings with care and attention, and that you are ready to participate in discussion. They will be hand written, short answer.
 
 ### Show and Tell A Pathogen
-In week 1, each student will be assigned a pathogen (see list below) that you are to present to the class in the form of a show and tell. Typically, this is as a power point or similar presentation. The idea is for you to provide an in depth discussion of the interesting ecological or evolutionary aspects of your pathogen, through an interpretation of the primary literature. I’ve chosen _zoonoses_ (a term you will learn in this class) that have sufficient primary, peer-reviewed literature for you to present the pathogen in an evolutionary or ecological context.  Following standard scientific presentation formats, your presentation should last 12 minutes, and we will provide 5 minutes for questions from the audience. 
+In week 1, each student will be assigned a pathogen (see list below) that you are to present to the class in the form of a show and tell. Typically, this is as a power point or similar presentation. The idea is for you to provide an in depth discussion of the interesting ecological or evolutionary aspects of your pathogen, through an interpretation of the primary literature. I’ve chosen /zoonoses/ (a term you will learn in this class) that have sufficient primary, peer-reviewed literature for you to present the pathogen in an evolutionary or ecological context.  Following standard scientific presentation formats, your presentation should last 12 minutes, and we will provide 5 minutes for questions from the audience. 
 
 Your presentation should begin with an overview of the basic natural history of your pathogen. Where was it first discovered? Has it spread geographically? What is know about vectors and reservoir hosts? What is the scale of human disease? And then it should expand into issues of ecology, especially as these have been presented in primary literature. I recommend using graphs from primary literature (with sources). The best presentations will end with your interpretation of future research directions, and when relevant a discussion of appropriate social policy on combating this pathogen.
 
@@ -68,37 +73,37 @@ Spillover Documentary:  https://www.youtube.com/watch?v=0dA-Ls9Iw24
 ### Week 2 (August 28): A global perspective on emerging disease
 Please read these four papers. They are in chronological order, so reading them in this order will give you a sense of the philosophical/theoretical development of the field. These papers will give you a broad overview of the major themes that we will be discussing during the semester.
 
-_Principle Readings:_
+/Principle Readings:/
 1. Daszak, P., A. A. Cunningham, and A. D. Hyatt. 2000. Emerging infectious diseases of wildlife--threats to biodiversity and human health. Science 287:443–449.
 2. Jones, K. E., N. G. Patel, M. A. Levy, A. Storeygard, D. Balk, J. L. Gittleman, and P. Daszak. 2008. Global trends in emerging infectious diseases. Nature 451:990–993.
 3. Kilpatrick, A. M., and S. E. Randolph. 2012. Drivers, dynamics, and control of emerging vector-borne zoonotic diseases. Lancet 380:1946–1955.
 4. Morse, S. S., J. A. K. Mazet, M. Woolhouse, C. R. Parrish, D. Carroll, W. B. Karesh, C. Zambrana-Torrelio, W. I. Lipkin, and P. Daszak. 2012. Prediction and prevention of the next pandemic zoonosis. Lancet 380:1956–1965.
 
 ### Week 3: Spillover
-_Principle Readings:_
+/Principle Readings:/
 1. Plowright, R. K., P. Eby, P. J. Hudson, I. L. Smith, D. Westcott, W. L. Bryden, D. Middleton, P. A. Reid, R. A. McFarlane, G. Martin, G. M. Tabor, L. F. Skerratt, D. L. Anderson, G. Crameri, D. Quammen, D. Jordan, P. Freeman, L.-F. Wang, J. H. Epstein, G. A. Marsh, N. Y. Kung, and H. McCallum. 2015. Ecological dynamics of emerging bat virus spillover. Proc. Biol. Sci. 282:20142124.
 2. Sharp, P. M., and B. H. Hahn. 2011. Origins of HIV and the AIDS pandemic. Cold Spring Harb. Perspect. Med. 1:a006841.
 
-_Background:_
+/Background:/
 1. Parrish, C. R., E. C. Holmes, D. M. Morens, E.-C. Park, D. S. Burke, C. H. Calisher, C. A. Laughlin, L. J. Saif, and P. Daszak. 2008. Cross-species virus transmission and the emergence of new epidemic diseases. Microbiol. Mol. Biol. Rev. 72:457–470. Am Soc Microbiol.
 
 2. Plowright, R. K., C. R. Parrish, H. McCallum, P. J. Hudson, A. I. Ko, A. L. Graham, and J. O. Lloyd-Smith. 2017. Pathways to zoonotic spillover. Nat. Rev. Microbiol. 15:502–510.
 
 ### Week 4: *Dilution effect*
-_Principle Readings:_
+/Principle Readings:/
 1. Civitello, D. J., J. Cohen, H. Fatima, N. T. Halstead, J. Liriano, T. A. McMahon, C. N. Ortega, E. L. Sauer, T. Sehgal, S. Young, and J. R. Rohr. 2015. Biodiversity inhibits parasites: Broad evidence for the dilution effect. Proc. Natl. Acad. Sci. U. S. A. 112:8667–8671. National Acad Sciences.
 
-_Background:_
+/Background:/
 1. Keesing F, Holt RD, Ostfeld RS. Effects of species diversity on disease risk. Ecol Lett 2006; 9(4): 485-98
 2. Johnson PTJ, Preston DL, Hoverman JT, Richgels KLD. Biodiversity decreases disease through predictable changes in host community competence. Nature 2013; 494(7436): 230-3.
 
 
 ### Week 5: *Deforestation Effect*
-_Principle Readings:_
-1. Vittor, A. Y., W. Pan, R. H. Gilman, J. Tielsch, G. Glass, T. Shields, W. Sánchez-Lozano, V. V. Pinedo, E. Salas-Cobos, S. Flores, and J. A. Patz. 2009. Linking deforestation to malaria in the Amazon: characterization of the breeding habitat of the principal malaria vector, _Anopheles darlingi_. Am. J. Trop. Med. Hyg. 81:5–12.
-2. Gottdenker, N. L., L. F. Chaves, J. E. Calzada, A. Saldaña, and C. R. Carroll. 2012. Host life history strategy, species diversity, and habitat influence _Trypanosoma cruzi_ vector infection in Changing landscapes. PLoS Negl. Trop. Dis. 6:e1884.
+/Principle Readings:/
+1. Vittor, A. Y., W. Pan, R. H. Gilman, J. Tielsch, G. Glass, T. Shields, W. Sánchez-Lozano, V. V. Pinedo, E. Salas-Cobos, S. Flores, and J. A. Patz. 2009. Linking deforestation to malaria in the Amazon: characterization of the breeding habitat of the principal malaria vector, /Anopheles darlingi/. Am. J. Trop. Med. Hyg. 81:5–12.
+2. Gottdenker, N. L., L. F. Chaves, J. E. Calzada, A. Saldaña, and C. R. Carroll. 2012. Host life history strategy, species diversity, and habitat influence /Trypanosoma cruzi/ vector infection in Changing landscapes. PLoS Negl. Trop. Dis. 6:e1884.
 
-_Background:_
+/Background:/
 Vittor, A. Y., R. H. Gilman, J. Tielsch, G. Glass, T. Shields, W. S. Lozano, V. Pinedo-Cancino, and J. A. Patz. 2006. The effect of deforestation on the human-biting rate of Anopheles darlingi, the primary vector of Falciparum malaria in the Peruvian Amazon. Am. J. Trop. Med. Hyg. 74:3–11. ASTMH.
 
 Tucker Lima, J. M., A. Vittor, S. Rifai, and D. Valle. 2017. Does deforestation promote or inhibit malaria transmission in the Amazon? A systematic literature review and critical appraisal of current evidence. Philos. Trans. R. Soc. Lond. B Biol. Sci. 372.
@@ -130,27 +135,27 @@ I’ve left this week open to allow for a guest lecture from a visiting disease 
 2. Middle East Respiratory Syndrome Coronavirus
 3. West Nile Virus
 4. Yellow Fever Virus
-5. Sindbis virus
+5. Sindbis Virus
 6. Crimean-Congo Hemorrhagic Fever Virus
 7. Rift Valley Fever Virus
 8. Dengue Virus
-9. Rift-Valley Fever Virus
-10. Mayaro Virus
-11. Oropouche Virus
-12. Chikungunya Virus
-13. Hantavirus
-14. Trypanosoma cruzi
-15. Leishmania spp.
-16. Babesia spp.
-17. Taenia solium
-18. Orientia tsutsugamushi
-19. Bartonella spp.
-20. Rickettsia rickettsii
-21. Borrelia burgdorferi
-22. Plasmodium falciparum 
-23. Onchocerca volvulus
-24. Trypanosoma brucei
-25. Ebola Virus
+9. Mayaro Virus
+10. Oropouche Virus
+11. Chikungunya Virus
+12. Hanta Virus
+13. /Trypanosoma cruzi/
+14. /Leishmania spp/.
+15. /Babesia spp/.
+16. /Taenia solium/
+17. /Orientia tsutsugamushi/
+18. /Bartonella spp/.
+19. /Rickettsia rickettsii/
+20. /Borrelia burgdorferi/
+21. /Plasmodium falciparum/ 
+22. /Onchocerca volvulus/
+23. /Trypanosoma brucei/
+24. Ebola Virus
+25. Lassa Virus
 
 ### Course Policies
 #### Attendance and Make-up Assignments:
@@ -169,13 +174,13 @@ Violations of academic integrity are strictly prohibited at the University of Ok
 To be successful in this class, all work must be yours and yours alone. You may not receive outside help. During reading quizzes you will never be permitted to use your notes, textbooks, calculators, or any other study aids. Should you see someone else engaging in this behavior, I encourage you to report it to myself or directly to the Office of Academic Integrity Programs. That student is devaluing not only their degree, but yours, too. Note that it is my professional obligation to report academic misconduct, which I will not hesitate to do. Sanctions for academic misconduct can include expulsion from the University and an “F” in this course. 
  
 #### Religious Observance
-It is the policy of the University to excuse the absences of students that result from religious observances and to reschedule examinations and additional required classwork that may fall on religious holidays, without penalty. (_I don’t believe that any religious holidays fall during our scheduled meeting period, but if your’s does, please contact me immediately._)
+It is the policy of the University to excuse the absences of students that result from religious observances and to reschedule examinations and additional required classwork that may fall on religious holidays, without penalty. (/I don’t believe that any religious holidays fall during our scheduled meeting period, but if your’s does, please contact me immediately./)
 
 #### Reasonable Accommodation Policy
 Students requiring academic accommodation should contact the Disability Resource Center for assistance at (405) 325-3852 or TDD: (405) 325-4173. For more information please see the Disability Resource Center website http://www.ou.edu/drc/home.html. Any student in this course who has a disability that may prevent him or her from fully demonstrating his or her abilities should contact me personally as soon as possible so we can discuss accommodations necessary to ensure full participation and facilitate your educational opportunities.
  
 #### Title IX Resources and Reporting Requirement
-For any concerns regarding gender-based discrimination, sexual harassment, sexual assault, dating / domestic violence, or stalking, the University offers a variety of resources. To learn more or to report an incident, please contact the Sexual Misconduct Office at 405/325-2215 (8 to 5, M-F) or smo@ou.edu. Incidents can also be reported confidentially to OU Advocates at 405/615-0013 (phones are answered 24 hours a day, 7 days a week). Also, please be advised that a professor_GA_TA is required to report instances of sexual harassment, sexual assault, or discrimination to the Sexual Misconduct Office.  Inquiries regarding non-discrimination policies may be directed to: Bobby J. Mason, University Equal Opportunity Officer and Title IX Coordinator at 405/325-3546 or bjm@ou.edu. For more information, visit http://www.ou.edu/eoo.html.
+For any concerns regarding gender-based discrimination, sexual harassment, sexual assault, dating / domestic violence, or stalking, the University offers a variety of resources. To learn more or to report an incident, please contact the Sexual Misconduct Office at 405/325-2215 (8 to 5, M-F) or smo@ou.edu. Incidents can also be reported confidentially to OU Advocates at 405/615-0013 (phones are answered 24 hours a day, 7 days a week). Also, please be advised that a professor/GA/TA is required to report instances of sexual harassment, sexual assault, or discrimination to the Sexual Misconduct Office.  Inquiries regarding non-discrimination policies may be directed to: Bobby J. Mason, University Equal Opportunity Officer and Title IX Coordinator at 405/325-3546 or bjm@ou.edu. For more information, visit http://www.ou.edu/eoo.html.
  
 #### Adjustments for Pregnancy/Childbirth Related Issues
 Should you need modifications or adjustments to your course requirements because of documented pregnancy-related or childbirth-related issues, please contact your professor or the Disability Resource Center at 405/325-3852 as soon as possible. Also, see http://www.ou.edu/eoo/faqs/pregnancy-faqs.html for answers to commonly asked questions.
