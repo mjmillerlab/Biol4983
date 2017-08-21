@@ -50,7 +50,7 @@ Your presentation should begin with an overview of the basic natural history of 
 There will be two rounds of show and tell a pathogen for each weekly meeting between week 3 and week 13. During week 14, there will be three rounds. I will demonstrate a Show and Tell A Pathogen during week 2.
 
 ### Weekly Journal Paper Discussion
-Between weeks 2 and 13, we will discuss a series of peer-reviewed scientific articles that center on a major conceptual theme in disease ecology. For each week, I have assigned a series of principle readings. All students are required to read these articles. 
+Between weeks 2 and 13, we will discuss a series of peer-reviewed scientific articles that center on a major conceptual theme in disease ecology. For each week, I have assigned a series of principle readings. All students are required to read these articles. Two 
 
 ## Grading
 You will be award points in the following manner.
@@ -64,8 +64,11 @@ Ecology of a Pathogen Poster:   150 points
 Point totals between 900 and 1000 will be awarded an “A”; point totals between 800 and 899 will be awarded a “B”; point totals between 700 and 799 will be awarded a “C”; point totals between 650 and 699 will be awarded a “D”. If you receive less than 650 points, your grade for the class will be an “F”.
 
 ## Weekly Topics
-### Week 1 (August 21) What are emerging diseases…how defined, why?
-Spillover Documentary:  https://www.youtube.com/watch?v=0dA-Ls9Iw24
+### Week 1: Why study emerging infectious disease ecology
+Today’s class will go over course objectives and structure. We will also watch a documentary on emerging disease ecology.
+
+PBS Documentary: Spillover – Zika, Ebola & Beyond    
+https://www.youtube.com/watch?v=0dA-Ls9Iw24
 
 ### Week 2 (August 28): A global perspective on emerging disease
 Please read these four papers. They are in chronological order, so reading them in this order will give you a sense of the philosophical/theoretical development of the field. These papers will give you a broad overview of the major themes that we will be discussing during the semester.
@@ -83,49 +86,56 @@ Please read these four papers. They are in chronological order, so reading them 
 
 *Background:*
 1. Parrish, C. R., E. C. Holmes, D. M. Morens, E.-C. Park, D. S. Burke, C. H. Calisher, C. A. Laughlin, L. J. Saif, and P. Daszak. 2008. Cross-species virus transmission and the emergence of new epidemic diseases. Microbiol. Mol. Biol. Rev. 72:457–470. Am Soc Microbiol.
-
 2. Plowright, R. K., C. R. Parrish, H. McCallum, P. J. Hudson, A. I. Ko, A. L. Graham, and J. O. Lloyd-Smith. 2017. Pathways to zoonotic spillover. Nat. Rev. Microbiol. 15:502–510.
 
 ### Week 4: *Dilution effect*
-/Principle Readings:/
+*Principle Readings:*
 1. Civitello, D. J., J. Cohen, H. Fatima, N. T. Halstead, J. Liriano, T. A. McMahon, C. N. Ortega, E. L. Sauer, T. Sehgal, S. Young, and J. R. Rohr. 2015. Biodiversity inhibits parasites: Broad evidence for the dilution effect. Proc. Natl. Acad. Sci. U. S. A. 112:8667–8671. National Acad Sciences.
-
-/Background:/
-1. Keesing F, Holt RD, Ostfeld RS. Effects of species diversity on disease risk. Ecol Lett 2006; 9(4): 485-98
 2. Johnson PTJ, Preston DL, Hoverman JT, Richgels KLD. Biodiversity decreases disease through predictable changes in host community competence. Nature 2013; 494(7436): 230-3.
 
+*Background:*
+1. Keesing F, Holt RD, Ostfeld RS. Effects of species diversity on disease risk. Ecol Lett 2006; 9(4): 485-98
+2. Keesing, F., L. K. Belden, P. Daszak, A. Dobson, C. D. Harvell, R. D. Holt, P. Hudson, A. Jolles, K. E. Jones, C. E. Mitchell, S. S. Myers, T. Bogich, and R. S. Ostfeld. 2010. Impacts of biodiversity on the emergence and transmission of infectious diseases. Nature 468:647–652. 
 
 ### Week 5: *Deforestation Effect*
-/Principle Readings:/
-1. Vittor, A. Y., W. Pan, R. H. Gilman, J. Tielsch, G. Glass, T. Shields, W. Sánchez-Lozano, V. V. Pinedo, E. Salas-Cobos, S. Flores, and J. A. Patz. 2009. Linking deforestation to malaria in the Amazon: characterization of the breeding habitat of the principal malaria vector, /Anopheles darlingi/. Am. J. Trop. Med. Hyg. 81:5–12.
-2. Gottdenker, N. L., L. F. Chaves, J. E. Calzada, A. Saldaña, and C. R. Carroll. 2012. Host life history strategy, species diversity, and habitat influence /Trypanosoma cruzi/ vector infection in Changing landscapes. PLoS Negl. Trop. Dis. 6:e1884.
+*Principle Readings:*
+1. Vittor, A. Y., W. Pan, R. H. Gilman, J. Tielsch, G. Glass, T. Shields, W. Sánchez-Lozano, V. V. Pinedo, E. Salas-Cobos, S. Flores, and J. A. Patz. 2009. Linking deforestation to malaria in the Amazon: characterization of the breeding habitat of the principal malaria vector, *Anopheles darlingi*. Am. J. Trop. Med. Hyg. 81:5–12.
+2. Gottdenker, N. L., L. F. Chaves, J. E. Calzada, A. Saldaña, and C. R. Carroll. 2012. Host life history strategy, species diversity, and habitat influence *Trypanosoma cruzi* vector infection in Changing landscapes. PLoS Negl. Trop. Dis. 6:e1884.
 
-/Background:/
-Vittor, A. Y., R. H. Gilman, J. Tielsch, G. Glass, T. Shields, W. S. Lozano, V. Pinedo-Cancino, and J. A. Patz. 2006. The effect of deforestation on the human-biting rate of Anopheles darlingi, the primary vector of Falciparum malaria in the Peruvian Amazon. Am. J. Trop. Med. Hyg. 74:3–11. ASTMH.
-
-Tucker Lima, J. M., A. Vittor, S. Rifai, and D. Valle. 2017. Does deforestation promote or inhibit malaria transmission in the Amazon? A systematic literature review and critical appraisal of current evidence. Philos. Trans. R. Soc. Lond. B Biol. Sci. 372.
+*Background:*
+1. Vittor, A. Y., R. H. Gilman, J. Tielsch, G. Glass, T. Shields, W. S. Lozano, V. Pinedo-Cancino, and J. A. Patz. 2006. The effect of deforestation on the human-biting rate of *Anopheles darlingi*, the primary vector of Falciparum malaria in the Peruvian Amazon. Am. J. Trop. Med. Hyg. 74:3–11. ASTMH.
+2. Tucker Lima, J. M., A. Vittor, S. Rifai, and D. Valle. 2017. Does deforestation promote or inhibit malaria transmission in the Amazon? A systematic literature review and critical appraisal of current evidence. Philos. Trans. R. Soc. Lond. B Biol. Sci. 372.
 A. Vittor.
 
 
-
 ### Week 6: *Evolution of Virulence*
-1. Woolhouse, M. E. J., Webster, J. P., Domingo, E., Charlesworth, B., and Levin, B. R., Biological and biomedical implications of the co-evolution of pathogens and their hosts Nature Genetics32 (4), 569 (2002)
+*Principle Readings:*
+1. Rico-Hesse, R., L. M. Harrison, R. A. Salas, D. Tovar, A. Nisalak, C. Ramos, J. Boshell, M. T. de Mesa, R. M. Nogueira, and A. T. da Rosa. 1997. Origins of dengue type 2 viruses associated with increased pathogenicity in the Americas. Virology 230:244–251.
+2. Liu, Y., J. Liu, S. Du, C. Shan, K. Nie, R. Zhang, X.-F. Li, R. Zhang, T. Wang, C.-F. Qin, P. Wang, P.-Y. Shi, and G. Cheng. 2017. Evolutionary enhancement of Zika virus infectivity in *Aedes aegypti* mosquitoes. Nature 545:482–486.
 
-2. Mackinnon, M. J., Gandon, S., and Read, A. F., Virulence evolution in response to vaccination: The case of malaria Vaccine 26, C42 (2008)
-
+*Background:*
+1. Lenski, R. E., and R. M. May. 1994. The evolution of virulence in parasites and pathogens: reconciliation between two competing hypotheses. J. Theor. Biol. 169:253–265.
+2. Woolhouse, M. E. J., Webster, J. P., Domingo, E., Charlesworth, B., and Levin, B. R., Biological and biomedical implications of the co-evolution of pathogens and their hosts Nature Genetics32 (4), 569 (2002)
 
 ###  Week 7 (Guest speaker)
 I’ve left this week open to allow for a guest lecture from a visiting disease ecologist. Because I am not 100% sure of the date of this visit, I’m leaving this week as a wild card week, that may move up or down the calendar. More information coming soon.
 
+(Readings for weeks 8 – 12 are pending)
 ### Week 8: Urban - Forest Disease Dynamics
 ### Week 9: Climate change and emerging disease
 ### Week 11 Urbanization and disease
 ### Week 10: Globalization and disease
+*Principle Readings*
+Bryant, J. E., E. C. Holmes, and A. D. T. Barrett. 2007. Out of Africa: a molecular perspective on the introduction of yellow fever virus into the Americas. PLoS Pathog. 3:e75.
 ### Week 12: One Health
 ### Week 13: The role of ecology/environment in non-infectious disease?
-### Week 14: Testing
-### Week 15: Poster Session 
 
+
+### Week 14: ACAT Testing
+This week we will have the final three Show and Tell presentations. After these, the Biology Department will administer it’s ACAT test. ACAT stands for “Area Concentration Achievement Test” and it is a standard sort of achievement test, like you probably recall from high school. The test is not an exit exam and it does not affect your grade in this course, nor your ability to graduate. Rather, it provides the Undergraduate Studies Program with useful information about what subjects students seem to know well and which they seem to need more experience in.
+
+### Week 15: Poster Session 
+This week we will display each of your posters in a post session, similar to what you would experience at a research conference. More details to follow.
 
 ## Show and Tell: Ecology of a Pathogen
 1. Nipah Virus
@@ -140,17 +150,17 @@ I’ve left this week open to allow for a guest lecture from a visiting disease 
 10. Oropouche Virus
 11. Chikungunya Virus
 12. Hanta Virus
-13. /Trypanosoma cruzi/
-14. /Leishmania spp/.
-15. /Babesia spp/.
-16. /Taenia solium/
-17. /Orientia tsutsugamushi/
-18. /Bartonella spp/.
-19. /Rickettsia rickettsii/
-20. /Borrelia burgdorferi/
-21. /Plasmodium falciparum/ 
-22. /Onchocerca volvulus/
-23. /Trypanosoma brucei/
+13. *Trypanosoma cruzi*
+14. *Leishmania spp*.
+15. *Babesia spp*.
+16. *Taenia solium*
+17. *Orientia tsutsugamushi*
+18. *Bartonella spp*.
+19. *Rickettsia rickettsii*
+20. *Borrelia burgdorferi*
+21. *Plasmodium falciparum* 
+22. *Onchocerca volvulus*
+23. *Trypanosoma brucei*
 24. Ebola Virus
 25. Lassa Virus
 
