@@ -1,3 +1,6 @@
+# Emerging Disease Ecology
+
+
 ## Overview
 Zika, Swine Flu, Bird Flu, West Nile, SARS. It seems like we hear about a new infectious disease threatening the world every day. It’s not fake news, or even the ubiquity of cable news. Around the world we face an increasing rate of newly emerging and re-emerging infectious diseases. This course will look to understand the drivers of emerging infectious diseases from ecological and evolutionary perspectives. This course is intentionally multi-disciplinary: it’s is equally appropriate for students interested in heath science careers as for students interested in careers in wildlife management and conservation. Because most emerging diseases are tropical in origin, much time will be spent discussing tropical emerging diseases such as Chikungunya, Zika, and Ebola. The core exercise in this course will be careful, and critical reading of the primary, peer-reviewed literature. The first goal for all students is to understand the evolutionary-ecology of disease, but a secondary one is to be able to read and interpret primary literature as scientists do.
 
@@ -15,9 +18,11 @@ Secondly, as a seminar, this course is reading heavy and discussion heavy. Becau
 
 Thirdly, the success of this class is measured largely in the success of the discussions. A large portion of your grade (in fact the largest percentage) will be based on your participation in these discussions, which means several important things:
  
-	* You need to share your ideas and perspectives with the rest of the class. Simply being present, while an important first step, is not by itself an adequate level of participation. Discussions without meaningful contributions will result in poor participation grades.
-	* You must respect the ideas and perspectives of other students. We will have an open and welcoming climate for all views, ideas, questions, and perspectives … with the exception of those that are disrespectful towards others. Contributing to the class in manner that is disrespectful to others will count as negative points towards your participation grade. Repeat offenders will be asked to leave the class.
-	* You need to have ideas and perspectives to share with the class in the discussions, which means you have to A) perform any assigned readings ahead time, and B) take some time to think to generate ideas and perspectives prior to the discussion taking place.
+	You need to share your ideas and perspectives with the rest of the class. Simply being present, while an important first step, is not by itself an adequate level of participation. Discussions without meaningful contributions will result in poor participation grades.
+	
+	You must respect the ideas and perspectives of other students. We will have an open and welcoming climate for all views, ideas, questions, and perspectives … with the exception of those that are disrespectful towards others. Contributing to the class in manner that is disrespectful to others will count as negative points towards your participation grade. Repeat offenders will be asked to leave the class.
+	
+	You need to have ideas and perspectives to share with the class in the discussions, which means you have to A) perform any assigned readings ahead time, and B) take some time to think to generate ideas and perspectives prior to the discussion taking place.
 
 Lastly, I have expectations for myself in the role of instructor of this class. First, you can expect me to be fair and reasonable. Second, you can expect me to be considerate and respectful. Third, you can expect me to be available outside of class.  This includes being available during office hours, and also by email. I will do my best to respond within 24 to 48 hours during the week (unless I am out of town). On the weekends, I’ll try to answer emails on Sunday nights. Finally, you can expect me to be flexible and responsive to student input.
 
@@ -72,15 +77,21 @@ _Principle Readings:_
 ### Week 3: Spillover
 _Principle Readings:_
 1. Plowright, R. K., P. Eby, P. J. Hudson, I. L. Smith, D. Westcott, W. L. Bryden, D. Middleton, P. A. Reid, R. A. McFarlane, G. Martin, G. M. Tabor, L. F. Skerratt, D. L. Anderson, G. Crameri, D. Quammen, D. Jordan, P. Freeman, L.-F. Wang, J. H. Epstein, G. A. Marsh, N. Y. Kung, and H. McCallum. 2015. Ecological dynamics of emerging bat virus spillover. Proc. Biol. Sci. 282:20142124.
+2. Sharp, P. M., and B. H. Hahn. 2011. Origins of HIV and the AIDS pandemic. Cold Spring Harb. Perspect. Med. 1:a006841.
 
+_Background:_
+1. Parrish, C. R., E. C. Holmes, D. M. Morens, E.-C. Park, D. S. Burke, C. H. Calisher, C. A. Laughlin, L. J. Saif, and P. Daszak. 2008. Cross-species virus transmission and the emergence of new epidemic diseases. Microbiol. Mol. Biol. Rev. 72:457–470. Am Soc Microbiol.
+
+2. Plowright, R. K., C. R. Parrish, H. McCallum, P. J. Hudson, A. I. Ko, A. L. Graham, and J. O. Lloyd-Smith. 2017. Pathways to zoonotic spillover. Nat. Rev. Microbiol. 15:502–510.
 
 ### Week 4: *Dilution effect*
+_Principle Readings:_
+1. Civitello, D. J., J. Cohen, H. Fatima, N. T. Halstead, J. Liriano, T. A. McMahon, C. N. Ortega, E. L. Sauer, T. Sehgal, S. Young, and J. R. Rohr. 2015. Biodiversity inhibits parasites: Broad evidence for the dilution effect. Proc. Natl. Acad. Sci. U. S. A. 112:8667–8671. National Acad Sciences.
+
 _Background:_
 1. Keesing F, Holt RD, Ostfeld RS. Effects of species diversity on disease risk. Ecol Lett 2006; 9(4): 485-98
 2. Johnson PTJ, Preston DL, Hoverman JT, Richgels KLD. Biodiversity decreases disease through predictable changes in host community competence. Nature 2013; 494(7436): 230-3.
 
-_Principle Readings:_
-1. Civitello, D. J., J. Cohen, H. Fatima, N. T. Halstead, J. Liriano, T. A. McMahon, C. N. Ortega, E. L. Sauer, T. Sehgal, S. Young, and J. R. Rohr. 2015. Biodiversity inhibits parasites: Broad evidence for the dilution effect. Proc. Natl. Acad. Sci. U. S. A. 112:8667–8671. National Acad Sciences.
 
 ### Week 5: *Deforestation Effect*
 _Principle Readings:_
