@@ -56,11 +56,11 @@ Between weeks 2 and 13, we will discuss a series of peer-reviewed scientific art
 ## Grading
 You will be award points in the following manner.
 
-Discussion Participation						260 points
-Reading Quizzes								240 points
-Paper Discussion Leadership					200 points
-Show and Tell A Pathogen Presentation			150 points			
-Ecology of a Pathogen Poster					150 points
+Discussion Participation						260 points   
+Reading Quizzes								240 points   
+Paper Discussion Leadership					200 points   
+Show and Tell A Pathogen Presentation			150 points   		
+Ecology of a Pathogen Poster					150 points   
 
 Point totals between 900 and 1000 will be awarded an “A”; point totals between 800 and 899 will be awarded a “B”; point totals between 700 and 799 will be awarded a “C”; point totals between 650 and 699 will be awarded a “D”. If you receive less than 650 points, your grade for the class will be an “F”.
 
