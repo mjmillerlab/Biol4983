@@ -1,10 +1,9 @@
 # Emerging Disease Ecology
-**Instructor: Dr. Matthew J. Miller**  
-**Office:  Sam Noble Museum, 302A** 
-**Email: mjmiller@ou.edu**  
-**Phone: (405) 325-2578** 
+**Instructor: Dr. Matthew J. Miller**   
+**Office:  Sam Noble Museum, 302A**  
+**Email: mjmiller@ou.edu**   
+**Phone: (405) 325-2578**    
 **Office Hours: Every Monday, 2:30 to 3:30 pm (or by appointment)** 
-
 
 ## Overview
 Zika, Swine Flu, Bird Flu, West Nile, SARS. It seems like we hear about a new infectious disease threatening the world every day. It’s not fake news, or even the ubiquity of cable news. Around the world we face an increasing rate of newly emerging and re-emerging infectious diseases. This course will look to understand the drivers of emerging infectious diseases from ecological and evolutionary perspectives. This course is intentionally multi-disciplinary: it’s is equally appropriate for students interested in heath science careers as for students interested in careers in wildlife management and conservation. Because most emerging diseases are tropical in origin, much time will be spent discussing tropical emerging diseases such as Chikungunya, Zika, and Ebola. The core exercise in this course will be careful, and critical reading of the primary, peer-reviewed literature. The first goal for all students is to understand the evolutionary-ecology of disease, but a secondary one is to be able to read and interpret primary literature as scientists do.
