@@ -236,7 +236,7 @@ Marie L. and Michelle P.
 
 #### Principle Readings:
 1. Bryant, J. E., E. C. Holmes, and A. D. T. Barrett. 2007. Out of Africa: a molecular perspective on the introduction of yellow fever virus into the Americas. PLoS Pathog. 3:e75. [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1250393/Bryant2007.pdf)
-2. Kilpatrick, A. M., A. A. Chmura, D. W. Gibbons, R. C. Fleischer, P. P. Marra, and P. Daszak. 2006. Predicting the global spread of H5N1 avian influenza. Proc. Natl. Acad. Sci. U. S. A. 103:19368–19373. [[PDF]]](https://github.com/mjmillerlab/Biol4983/files/1250392/Kilpatrick2006.pdf)
+2. Kilpatrick, A. M., A. A. Chmura, D. W. Gibbons, R. C. Fleischer, P. P. Marra, and P. Daszak. 2006. Predicting the global spread of H5N1 avian influenza. Proc. Natl. Acad. Sci. U. S. A. 103:19368–19373. [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1250392/Kilpatrick2006.pdf)
 #### Background Readings:
 1. Yu, I. T. S., Y. Li, T. W. Wong, W. Tam, A. T. Chan, J. H. W. Lee, D. Y. C. Leung, and T. Ho. 2004. Evidence of airborne transmission of the severe acute respiratory syndrome virus. N. Engl. J. Med. 350:1731–1739. [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1250391/Yu2004.pdf)
 2. MacPherson, D. W., B. D. Gushulak, W. B. Baine, S. Bala, P. O. Gubbins, P. Holtom, and M. Segarra-Newnham. 2009. Population mobility, globalization, and antimicrobial drug resistance. Emerg. Infect. Dis. 15:1727. [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1250390/MacPherson2009.pdf)
