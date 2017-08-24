@@ -5,8 +5,8 @@
 **Office Phone: (405) 325-2578 (I prefer email)**    
 **Office Hours: Every Monday, 2:30 to 3:30 pm (or by appointment)** 
 
-## Version 24-August-2017
-Modifications include change to office hours, updating the weekly schedule to include presenters; and partiall completing the reading assignments and PDF upload.
+## Version 24-August-2017v2
+Modifications include change to office hours, updating the weekly schedule to include presenters; and completing the reading assignments.
 
 ## Overview
 Zika, Swine Flu, Bird Flu, West Nile, SARS. It seems like we hear about a new infectious disease threatening the world every day. It’s not fake news, or even the ubiquity of cable news. Around the world we face an increasing rate of newly emerging and re-emerging infectious diseases. This course will look to understand the drivers of emerging infectious diseases from ecological and evolutionary perspectives. This course is intentionally multi-disciplinary: it’s is equally appropriate for students interested in heath science careers as for students interested in careers in wildlife management and conservation. Because most emerging diseases are tropical in origin, much time will be spent discussing tropical emerging diseases such as Chikungunya, Zika, and Ebola. The core exercise in this course will be careful, and critical reading of the primary, peer-reviewed literature. The first goal for all students is to understand the evolutionary-ecology of disease, but a secondary one is to be able to read and interpret primary literature as scientists do.
@@ -160,12 +160,12 @@ Abby H. and Muneeb A.
 This week’s readings are quite interesting, as they present two different evolutionary pathways for an evolutionary of virulence in vector-borne disease.
 
 #### Principle Readings:
-1. Rico-Hesse, R., L. M. Harrison, R. A. Salas, D. Tovar, A. Nisalak, C. Ramos, J. Boshell, M. T. de Mesa, R. M. Nogueira, and A. T. da Rosa. 1997. Origins of dengue type 2 viruses associated with increased pathogenicity in the Americas. Virology 230:244–251.[[PDF]]
-2. Liu, Y., J. Liu, S. Du, C. Shan, K. Nie, R. Zhang, X.-F. Li, R. Zhang, T. Wang, C.-F. Qin, P. Wang, P.-Y. Shi, and G. Cheng. 2017. Evolutionary enhancement of Zika virus infectivity in *Aedes aegypti* mosquitoes. Nature 545:482–486.[[PDF]]
+1. Rico-Hesse, R., L. M. Harrison, R. A. Salas, D. Tovar, A. Nisalak, C. Ramos, J. Boshell, M. T. de Mesa, R. M. Nogueira, and A. T. da Rosa. 1997. Origins of dengue type 2 viruses associated with increased pathogenicity in the Americas. Virology 230:244–251.[[PDF]](https://github.com/mjmillerlab/Biol4983/files/1249435/Rico-Hesse1997.pdf)
+2. Liu, Y., J. Liu, S. Du, C. Shan, K. Nie, R. Zhang, X.-F. Li, R. Zhang, T. Wang, C.-F. Qin, P. Wang, P.-Y. Shi, and G. Cheng. 2017. Evolutionary enhancement of Zika virus infectivity in *Aedes aegypti* mosquitoes. Nature 545:482–486.[[PDF]](https://github.com/mjmillerlab/Biol4983/files/1249433/Liu2017.pdf)
 
 #### Background Readings:
 1. Lenski, R. E., and R. M. May. 1994. The evolution of virulence in parasites and pathogens: reconciliation between two competing hypotheses. J. Theor. Biol. 169:253–265.[[PDF]]
-2. Woolhouse, M. E. J., J. P. Webster, E. Domingo, B. Charlesworth, and B. R. Levin. 2002. Biological and biomedical implications of the co-evolution of pathogens and their hosts. Nat. Genet. 32:569–577.[[PDF]]
+2. Woolhouse, M. E. J., J. P. Webster, E. Domingo, B. Charlesworth, and B. R. Levin. 2002. Biological and biomedical implications of the co-evolution of pathogens and their hosts. Nat. Genet. 32:569–577.[[PDF]](https://github.com/mjmillerlab/Biol4983/files/1249434/Woolhouse2002.pdf)
 
 ###  Week 7 (Guest speaker)
 I’ve left this week open to allow for a guest lecture from a visiting disease ecologist. Because I am not 100% sure of the date of this visit, I’m leaving this week as a wild card week, that may move up or down the calendar. More information coming soon.
@@ -180,11 +180,14 @@ James R.   *Chikungunya Virus*
 Sydney G. and Jay L.
 
 #### Principle Readings:
-1. Althouse, B. M., N. Vasilakis, A. A. Sall, M. Diallo, S. C. Weaver, and K. A. Hanley. 2016. Potential for Zika Virus to Establish a Sylvatic Transmission Cycle in the Americas. PLoS Negl. Trop. Dis. 10:e0005055.
-2. Vasilakis, N., J. Cardosa, K. A. Hanley, E. C. Holmes, and S. C. Weaver. 2011. Fever from the forest: prospects for the continued emergence of sylvatic dengue virus and its impact on public health. Nat. Rev. Microbiol. 9:532. NIH Public Access.
-
+1. Althouse, B. M., N. Vasilakis, A. A. Sall, M. Diallo, S. C. Weaver, and K. A. Hanley. 2016. Potential for Zika Virus to Establish a Sylvatic Transmission Cycle in the Americas. PLoS Negl. Trop. Dis. 10:e0005055. [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1250336/Althouse2016.pdf)
+2. Hanley, K. A., T. P. Monath, S. C. Weaver, S. L. Rossi, R. L. Richman, and N. Vasilakis. 2013. Fever versus fever: the role of host and vector susceptibility and interspecific competition in shaping the current and future distributions of the sylvatic cycles of dengue virus and yellow fever virus. Infect. Genet. Evol. 19:292–311. [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1250360/Hanley2013.pdf)
 #### Background Readings:
-Vasilakis, N., and S. C. Weaver. 2017. Flavivirus transmission focusing on Zika. Curr. Opin. Virol. 22:30–35.
+Ask yourself what is surprising about the findings in paper 3. Page 673 of [this book](https://books.google.com/books?id=rgIEomaasLgC&pg=PA673&lpg=PA673&dq=introduced+monkeys+in+haiti&source=bl&ots=xE2H4351Ui&sig=W2YCi4BZEn0ze8JGhqKXf61PBGU&hl=en&sa=X&ved=0ahUKEwji9_7e7vDVAhVCqFQKHdVaAV4Q6AEIeDAO#v=onepage&q=introduced%20monkeys%20in%20haiti&f=false) provides a hint.
+
+1. Vasilakis, N., and S. C. Weaver. 2017. Flavivirus transmission focusing on Zika. Curr. Opin. Virol. 22:30–35. [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1250338/Vasilakis2017.pdf)
+2. Vasilakis, N., J. Cardosa, K. A. Hanley, E. C. Holmes, and S. C. Weaver. 2011. Fever from the forest: prospects for the continued emergence of sylvatic dengue virus and its impact on public health. Nat. Rev. Microbiol. 9:532. [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1250337/Vasilakis2011.pdf)
+3. Lednicky, J., V. M. B. De Rochars, M. Elbadry, J. Loeb, T. Telisma, S. Chavannes, G. Anilis, E. Cella, M. Ciccozzi, B. Okech, M. Salemi, and J. G. Morris Jr. 2016. Mayaro virus in child with acute febrile illness, Haiti, 2015. Emerg. Infect. Dis. 22:2000–2002. [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1250361/Lednicky2016.pdf)
 
 ### Week 9: Climate change and emerging disease
 
@@ -196,10 +199,13 @@ Lauren M.   *Orientia tsutsugamushi*
 Tabitha B. and Katie O.
 
 #### Principle Readings:
-1. Garza, M., T. P. Feria Arroyo, E. A. Casillas, V. Sanchez-Cordero, C.-L. Rivaldi, and S. Sarkar. 2014. Projected future distributions of vectors of *Trypanosoma cruzi* in North America under climate change scenarios. PLoS Negl. Trop. Dis. 8:e2818.
-2. Daszak, P., C. Zambrana-Torrelio, T. L. Bogich, M. Fernandez, J. H. Epstein, K. A. Murray, and H. Hamilton. 2013. Interdisciplinary approaches to understanding disease emergence: the past, present, and future drivers of Nipah virus emergence. Proc. Natl. Acad. Sci. U. S. A. 110 Suppl 1:3681–3688.
+1. Garza, M., T. P. Feria Arroyo, E. A. Casillas, V. Sanchez-Cordero, C.-L. Rivaldi, and S. Sarkar. 2014. Projected future distributions of vectors of *Trypanosoma cruzi* in North America under climate change scenarios. PLoS Negl. Trop. Dis. 8:e2818. [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1250375/Garza2014.pdf)
+2. Daszak, P., C. Zambrana-Torrelio, T. L. Bogich, M. Fernandez, J. H. Epstein, K. A. Murray, and H. Hamilton. 2013. Interdisciplinary approaches to understanding disease emergence: the past, present, and future drivers of Nipah virus emergence. Proc. Natl. Acad. Sci. U. S. A. 110 Suppl 1:3681–3688. [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1250377/Daszak2013.pdf)
+
 
 #### Background Readings:
+1. Kovats, R. S., D. H. Campbell-Lendrum, A. J. McMichel, A. Woodward, and J. St H. Cox. 2001. Early effects of climate change: do they include changes in vector-borne disease? Philos. Trans. R. Soc. Lond. B Biol. Sci. 356:1057–1068. [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1250376/Kovats2001.pdf)
+2. Rodó, X., M. Pascual, G. Fuchs, and A. S. G. Faruque. 2002. ENSO and cholera: A nonstationary link related to climate change? Proceedings of the National Academy of Sciences 99:12901–12906. [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1250374/Rodo2002.pdf)
 
 ### Week 10: Urbanization and disease
 
@@ -211,11 +217,12 @@ Sydney G.   *Trypanosoma brucei*
 Kristin K., Chloe D., Parker K., and Lauren M.
 
 #### Principle Readings:
-1. Bayer, A. M., G. C. Hunter, R. H. Gilman, J. G. Cornejo Del Carpio, C. Naquira, C. Bern, and M. Z. Levy. 2009. Chagas disease, migration and community settlement patterns in Arequipa, Peru. PLoS Negl. Trop. Dis. 3:e567.
-2. Wood, C. L., A. McInturff, H. S. Young, D. Kim, and K. D. Lafferty. 2017. Human infectious disease burdens decrease with urbanization but not with biodiversity. Philos. Trans. R. Soc. Lond. B Biol. Sci. 372.
-3. 
+1. Bayer, A. M., G. C. Hunter, R. H. Gilman, J. G. Cornejo Del Carpio, C. Naquira, C. Bern, and M. Z. Levy. 2009. Chagas disease, migration and community settlement patterns in Arequipa, Peru. PLoS Negl. Trop. Dis. 3:e567. [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1250387/Bayer2009.pdf)
+2. Wood, C. L., A. McInturff, H. S. Young, D. Kim, and K. D. Lafferty. 2017. Human infectious disease burdens decrease with urbanization but not with biodiversity. Philos. Trans. R. Soc. Lond. B Biol. Sci. 372. [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1250385/Wood2017.pdf)
 
 #### Background Readings:
+1. Hotez, P. J. 2017. Global urbanization and the neglected tropical diseases. PLoS Negl. Trop. Dis. 11:e0005308. [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1250386/Hotez2017.pdf)
+2. Borroto, R. J., and R. Martinez-Piedra. 2000. Geographical patterns of cholera in Mexico, 1991–1996. Int. J. Epidemiol. 29:764–772.  [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1250388/Borroto2000.pdf)
 
 ### Week 11: Globalization and disease
   
@@ -227,11 +234,11 @@ Jay L.   *Yellow Fever Virus*
 Marie L. and Michelle P.
 
 #### Principle Readings:
-1. Bryant, J. E., E. C. Holmes, and A. D. T. Barrett. 2007. Out of Africa: a molecular perspective on the introduction of yellow fever virus into the Americas. PLoS Pathog. 3:e75. 
-2. Kilpatrick, A. M., A. A. Chmura, D. W. Gibbons, R. C. Fleischer, P. P. Marra, and P. Daszak. 2006. Predicting the global spread of H5N1 avian influenza. Proc. Natl. Acad. Sci. U. S. A. 103:19368–19373. National Acad Sciences.
-
+1. Bryant, J. E., E. C. Holmes, and A. D. T. Barrett. 2007. Out of Africa: a molecular perspective on the introduction of yellow fever virus into the Americas. PLoS Pathog. 3:e75. [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1250393/Bryant2007.pdf)
+2. Kilpatrick, A. M., A. A. Chmura, D. W. Gibbons, R. C. Fleischer, P. P. Marra, and P. Daszak. 2006. Predicting the global spread of H5N1 avian influenza. Proc. Natl. Acad. Sci. U. S. A. 103:19368–19373. [[PDF]]](https://github.com/mjmillerlab/Biol4983/files/1250392/Kilpatrick2006.pdf)
 #### Background Readings:
-Yu, I. T. S., Y. Li, T. W. Wong, W. Tam, A. T. Chan, J. H. W. Lee, D. Y. C. Leung, and T. Ho. 2004. Evidence of airborne transmission of the severe acute respiratory syndrome virus. N. Engl. J. Med. 350:1731–1739. Mass Medical Soc.
+1. Yu, I. T. S., Y. Li, T. W. Wong, W. Tam, A. T. Chan, J. H. W. Lee, D. Y. C. Leung, and T. Ho. 2004. Evidence of airborne transmission of the severe acute respiratory syndrome virus. N. Engl. J. Med. 350:1731–1739. [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1250391/Yu2004.pdf)
+2. MacPherson, D. W., B. D. Gushulak, W. B. Baine, S. Bala, P. O. Gubbins, P. Holtom, and M. Segarra-Newnham. 2009. Population mobility, globalization, and antimicrobial drug resistance. Emerg. Infect. Dis. 15:1727. [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1250390/MacPherson2009.pdf)
 
 ### Week 12: One Health
 
@@ -243,14 +250,14 @@ Heather M.   *Borrelia burgdorferi*
 Kevin L. and Justin A.
 
 #### Principle Readings:
-1. Gibbs, E. P. J. 2014. The evolution of One Health: a decade of progress and challenges for the future. Vet. Rec. 174:85–91. 
-2. Fitzpatrick, M. C., H. A. Shah, A. Pandey, A. M. Bilinski, M. Kakkar, A. D. Clark, J. P. Townsend, S. S. Abbas, and A. P. Galvani. 2016. One Health approach to cost-effective rabies control in India. Proc. Natl. Acad. Sci. U. S. A. 113:14574–14581. National Acad Sciences.
+1. Gibbs, E. P. J. 2014. The evolution of One Health: a decade of progress and challenges for the future. Vet. Rec. 174:85–91. [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1250403/Gibbs2014.pdf)
+2. Fitzpatrick, M. C., H. A. Shah, A. Pandey, A. M. Bilinski, M. Kakkar, A. D. Clark, J. P. Townsend, S. S. Abbas, and A. P. Galvani. 2016. One Health approach to cost-effective rabies control in India. Proc. Natl. Acad. Sci. U. S. A. 113:14574–14581. [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1250405/Fitzpatrick2016.pdf)
 
 #### Background Readings:
-Coker, R., J. Rushton, S. Mounier-Jack, E. Karimuribo, P. Lutumba, D. Kambarage, D. U. Pfeiffer, K. Stärk, and M. Rweyemamu. 2011. Towards a conceptual framework to support one-health research for policy on emerging zoonoses. Lancet Infect. Dis. 11:326–331. Elsevier.
+1. Coker, R., J. Rushton, S. Mounier-Jack, E. Karimuribo, P. Lutumba, D. Kambarage, D. U. Pfeiffer, K. Stärk, and M. Rweyemamu. 2011. Towards a conceptual framework to support one-health research for policy on emerging zoonoses. Lancet Infect. Dis. 11:326–331. [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1250406/Coker2011.pdf)
+2. Narrod, C., J. Zinsstag, and M. Tiongco. 2012. A one health framework for estimating the economic costs of zoonotic diseases on society. Ecohealth 9:150–162. [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1250404/Narrod2012.pdf)
 
-### Week 13: The role of ecology/environment in non-infectious disease?
-### Conservation medicine
+### Week 13: Conservation medicine 
 
 #### Show and Tell a Pathogen:
 Zac W.   *Dengue Virus*
@@ -262,14 +269,15 @@ Will D. and Preston C.
 #### Principle Readings:
 Here we have two data papers from the same region – the Brazilian Amazon, that reach apparently different conclusions about the role of biodiversity conservation in human health. The final paper, gives a realistic, sobering, review of what we know.
 
-1. Bauch, S. C., A. M. Birkenbach, S. K. Pattanayak, and E. O. Sills. 2015. Public health impacts of ecosystem change in the Brazilian Amazon. Proc. Natl. Acad. Sci. U. S. A. 112:7414–7419.
-2. Valle, D., and J. Clark. 2013. Conservation efforts may increase malaria burden in the Brazilian Amazon. PLoS One 8:e57519.
-3. Kilpatrick, A. M., D. J. Salkeld, G. Titcomb, and M. B. Hahn. 2017. Conservation of biodiversity as a strategy for improving human health and well-being. Philos. Trans. R. Soc. Lond. B Biol. Sci. 372. 
+1. Bauch, S. C., A. M. Birkenbach, S. K. Pattanayak, and E. O. Sills. 2015. Public health impacts of ecosystem change in the Brazilian Amazon. Proc. Natl. Acad. Sci. U. S. A. 112:7414–7419. [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1250409/Bauch2015.pdf)
+2. Valle, D., and J. Clark. 2013. Conservation efforts may increase malaria burden in the Brazilian Amazon. PLoS One 8:e57519. [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1250407/Valle2013.pdf)
+3. Kilpatrick, A. M., D. J. Salkeld, G. Titcomb, and M. B. Hahn. 2017. Conservation of biodiversity as a strategy for improving human health and well-being. Philos. Trans. R. Soc. Lond. B Biol. Sci. 372. [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1250408/Kilpatrick2017.pdf)
 
 #### Background Readings:
 For paper 1, please note the author set here. Compare the third author’s point of view in 2004 with his in 2017 (above).
-1. Daszak, P., G. M. Tabor, A. M. Kilpatrick, J. Epstein, and R. Plowright. 2004. Conservation medicine and a new agenda for emerging diseases. Ann. N. Y. Acad. Sci. 1026:1–11. Wiley Online Library.
 
+1. Daszak, P., G. M. Tabor, A. M. Kilpatrick, J. Epstein, and R. Plowright. 2004. Conservation medicine and a new agenda for emerging diseases. Ann. N. Y. Acad. Sci. 1026:1–11. [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1250410/Daszak2004.pdf)
+2. Murray, K. A., and P. Daszak. 2013. Human ecology in pathogenic landscapes: two hypotheses on how land use change drives viral emergence. Curr. Opin. Virol. [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1250411/Murray2013.pdf)
 
 ### Week 14: ACAT Testing
 
