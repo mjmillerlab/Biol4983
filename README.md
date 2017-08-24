@@ -5,7 +5,7 @@
 **Office Phone: (405) 325-2578 (I prefer email)**    
 **Office Hours: Every Monday, 2:30 to 3:30 pm (or by appointment)** 
 
-## Version 23-August-2017
+## Version 24-August-2017
 Modifications include change to office hours, updating the weekly schedule to include presenters; and completing the reading assignments.
 
 ## Overview
@@ -106,12 +106,12 @@ Lauren D.   *Onchocerca volvulus*
 Heather M. and Zac W.
 
 #### Principle Readings:
-1. Plowright, R. K., P. Eby, P. J. Hudson, I. L. Smith, D. Westcott, W. L. Bryden, D. Middleton, P. A. Reid, R. A. McFarlane, G. Martin, G. M. Tabor, L. F. Skerratt, D. L. Anderson, G. Crameri, D. Quammen, D. Jordan, P. Freeman, L.-F. Wang, J. H. Epstein, G. A. Marsh, N. Y. Kung, and H. McCallum. 2015. Ecological dynamics of emerging bat virus spillover. Proc. Biol. Sci. 282:20142124.
-2. Sharp, P. M., and B. H. Hahn. 2011. Origins of HIV and the AIDS pandemic. Cold Spring Harb. Perspect. Med. 1:a006841.
+1. Plowright, R. K., P. Eby, P. J. Hudson, I. L. Smith, D. Westcott, W. L. Bryden, D. Middleton, P. A. Reid, R. A. McFarlane, G. Martin, G. M. Tabor, L. F. Skerratt, D. L. Anderson, G. Crameri, D. Quammen, D. Jordan, P. Freeman, L.-F. Wang, J. H. Epstein, G. A. Marsh, N. Y. Kung, and H. McCallum. 2015. Ecological dynamics of emerging bat virus spillover. Proc. Biol. Sci. 282:20142124.[[PDF]](https://github.com/mjmillerlab/Biol4983/files/1249086/Plowright2015.pdf)
+2. 2. Sharp, P. M., and B. H. Hahn. 2011. Origins of HIV and the AIDS pandemic. Cold Spring Harb. Perspect. Med. 1:a006841.[[PDF]](https://github.com/mjmillerlab/Biol4983/files/1249088/Sharp2011.pdf)
 
 #### Background Readings:
-1. Parrish, C. R., E. C. Holmes, D. M. Morens, E.-C. Park, D. S. Burke, C. H. Calisher, C. A. Laughlin, L. J. Saif, and P. Daszak. 2008. Cross-species virus transmission and the emergence of new epidemic diseases. Microbiol. Mol. Biol. Rev. 72:457–470. Am Soc Microbiol.
-2. Plowright, R. K., C. R. Parrish, H. McCallum, P. J. Hudson, A. I. Ko, A. L. Graham, and J. O. Lloyd-Smith. 2017. Pathways to zoonotic spillover. Nat. Rev. Microbiol. 15:502–510.
+1. Parrish, C. R., E. C. Holmes, D. M. Morens, E.-C. Park, D. S. Burke, C. H. Calisher, C. A. Laughlin, L. J. Saif, and P. Daszak. 2008. Cross-species virus transmission and the emergence of new epidemic diseases. Microbiol. Mol. Biol. Rev. 72:457–470. [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1249084/Parrish2008.pdf)
+2. Plowright, R. K., C. R. Parrish, H. McCallum, P. J. Hudson, A. I. Ko, A. L. Graham, and J. O. Lloyd-Smith. 2017. Pathways to zoonotic spillover. Nat. Rev. Microbiol. 15:502–510.[[PDF]](https://github.com/mjmillerlab/Biol4983/files/1249087/Plowright2017.pdf)
 
 ### Week 4: Dilution Effect
 
@@ -123,12 +123,12 @@ Chloe D.	*Rickettsia rickettsia*
 Cole B. and Lauren D.
 
 #### Principle Readings:
-1. Civitello, D. J., J. Cohen, H. Fatima, N. T. Halstead, J. Liriano, T. A. McMahon, C. N. Ortega, E. L. Sauer, T. Sehgal, S. Young, and J. R. Rohr. 2015. Biodiversity inhibits parasites: Broad evidence for the dilution effect. Proc. Natl. Acad. Sci. U. S. A. 112:8667–8671. National Acad Sciences.
-2. Johnson PTJ, Preston DL, Hoverman JT, Richgels KLD. Biodiversity decreases disease through predictable changes in host community competence. Nature 2013; 494(7436): 230-3.
+1. Civitello, D. J., J. Cohen, H. Fatima, N. T. Halstead, J. Liriano, T. A. McMahon, C. N. Ortega, E. L. Sauer, T. Sehgal, S. Young, and J. R. Rohr. 2015. Biodiversity inhibits parasites: Broad evidence for the dilution effect. Proc. Natl. Acad. Sci. U. S. A. 112:8667–8671. [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1249260/Civitello2015.pdf)
+2. Johnson PTJ, Preston DL, Hoverman JT, Richgels KLD. Biodiversity decreases disease through predictable changes in host community competence. Nature 2013; 494(7436): 230-3. [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1249261/Johnson2013.pdf)
 
 #### Background Readings:
-1. Keesing F, Holt RD, Ostfeld RS. Effects of species diversity on disease risk. Ecol Lett 2006; 9(4): 485-98
-2. Keesing, F., L. K. Belden, P. Daszak, A. Dobson, C. D. Harvell, R. D. Holt, P. Hudson, A. Jolles, K. E. Jones, C. E. Mitchell, S. S. Myers, T. Bogich, and R. S. Ostfeld. 2010. Impacts of biodiversity on the emergence and transmission of infectious diseases. Nature 468:647–652. 
+1. Keesing, F., R. D. Holt, and R. S. Ostfeld. 2006. Effects of species diversity on disease risk. Ecol. Lett. 9:485–498. [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1249263/Keesing2006.pdf)
+2. Keesing, F., L. K. Belden, P. Daszak, A. Dobson, C. D. Harvell, R. D. Holt, P. Hudson, A. Jolles, K. E. Jones, C. E. Mitchell, S. S. Myers, T. Bogich, and R. S. Ostfeld. 2010. Impacts of biodiversity on the emergence and transmission of infectious diseases. Nature 468:647–652.  [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1249262/Keesing2010.pdf)
 
 ### Week 5: Deforestation Effect 
 
@@ -140,13 +140,13 @@ Parker K.   *Lassa Virus*
 Sheila N. , James R, Cole M., and Adam S.
 
 #### Principle Readings:
-1. Vittor, A. Y., W. Pan, R. H. Gilman, J. Tielsch, G. Glass, T. Shields, W. Sánchez-Lozano, V. V. Pinedo, E. Salas-Cobos, S. Flores, and J. A. Patz. 2009. Linking deforestation to malaria in the Amazon: characterization of the breeding habitat of the principal malaria vector, *Anopheles darlingi*. Am. J. Trop. Med. Hyg. 81:5–12.
-2. Gottdenker, N. L., L. F. Chaves, J. E. Calzada, A. Saldaña, and C. R. Carroll. 2012. Host life history strategy, species diversity, and habitat influence *Trypanosoma cruzi* vector infection in Changing landscapes. PLoS Negl. Trop. Dis. 6:e1884.
+1. Vittor, A. Y., W. Pan, R. H. Gilman, J. Tielsch, G. Glass, T. Shields, W. Sánchez-Lozano, V. V. Pinedo, E. Salas-Cobos, S. Flores, and J. A. Patz. 2009. Linking deforestation to malaria in the Amazon: characterization of the breeding habitat of the principal malaria vector, *Anopheles darlingi*. Am. J. Trop. Med. Hyg. 81:5–12. [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1249375/Vittor2009.pdf)
+2. Pienkowski, T., B. L. Dickens, H. Sun, and L. R. Carrasco. 2017. Empirical evidence of the public health benefits of tropical forest conservation in Cambodia: a generalised linear mixed-effects model analysis. The Lancet Planetary Health 1:e180–e187. [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1249373/Pienkowski2017.pdf)
 
 #### Background Readings:
-1. Vittor, A. Y., R. H. Gilman, J. Tielsch, G. Glass, T. Shields, W. S. Lozano, V. Pinedo-Cancino, and J. A. Patz. 2006. The effect of deforestation on the human-biting rate of *Anopheles darlingi*, the primary vector of Falciparum malaria in the Peruvian Amazon. Am. J. Trop. Med. Hyg. 74:3–11. ASTMH.
+1. Vittor, A. Y., R. H. Gilman, J. Tielsch, G. Glass, T. Shields, W. S. Lozano, V. Pinedo-Cancino, and J. A. Patz. 2006. The effect of deforestation on the human-biting rate of *Anopheles darlingi*, the primary vector of Falciparum malaria in the Peruvian Amazon. Am. J. Trop. Med. Hyg. 74:3–11. ASTMH. [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1249377/Vittor2006.pdf)
 2. Tucker Lima, J. M., A. Vittor, S. Rifai, and D. Valle. 2017. Does deforestation promote or inhibit malaria transmission in the Amazon? A systematic literature review and critical appraisal of current evidence. Philos. Trans. R. Soc. Lond. B Biol. Sci. 372.
-A. Vittor.
+A. Vittor. [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1249374/TuckerLima2017.pdf)
 
 ### Week 6: Evolution of Virulence
 
@@ -160,12 +160,12 @@ Abby H. and Muneeb A.
 This week’s readings are quite interesting, as they present two different evolutionary pathways for an evolutionary of virulence in vector-borne disease.
 
 #### Principle Readings:
-1. Rico-Hesse, R., L. M. Harrison, R. A. Salas, D. Tovar, A. Nisalak, C. Ramos, J. Boshell, M. T. de Mesa, R. M. Nogueira, and A. T. da Rosa. 1997. Origins of dengue type 2 viruses associated with increased pathogenicity in the Americas. Virology 230:244–251.
-2. Liu, Y., J. Liu, S. Du, C. Shan, K. Nie, R. Zhang, X.-F. Li, R. Zhang, T. Wang, C.-F. Qin, P. Wang, P.-Y. Shi, and G. Cheng. 2017. Evolutionary enhancement of Zika virus infectivity in *Aedes aegypti* mosquitoes. Nature 545:482–486.
+1. Rico-Hesse, R., L. M. Harrison, R. A. Salas, D. Tovar, A. Nisalak, C. Ramos, J. Boshell, M. T. de Mesa, R. M. Nogueira, and A. T. da Rosa. 1997. Origins of dengue type 2 viruses associated with increased pathogenicity in the Americas. Virology 230:244–251.[[PDF]]
+2. Liu, Y., J. Liu, S. Du, C. Shan, K. Nie, R. Zhang, X.-F. Li, R. Zhang, T. Wang, C.-F. Qin, P. Wang, P.-Y. Shi, and G. Cheng. 2017. Evolutionary enhancement of Zika virus infectivity in *Aedes aegypti* mosquitoes. Nature 545:482–486.[[PDF]]
 
 #### Background Readings:
-1. Lenski, R. E., and R. M. May. 1994. The evolution of virulence in parasites and pathogens: reconciliation between two competing hypotheses. J. Theor. Biol. 169:253–265.
-2. Woolhouse, M. E. J., Webster, J. P., Domingo, E., Charlesworth, B., and Levin, B. R., Biological and biomedical implications of the co-evolution of pathogens and their hosts Nature Genetics32 (4), 569 (2002)
+1. Lenski, R. E., and R. M. May. 1994. The evolution of virulence in parasites and pathogens: reconciliation between two competing hypotheses. J. Theor. Biol. 169:253–265.[[PDF]]
+2. Woolhouse, M. E. J., J. P. Webster, E. Domingo, B. Charlesworth, and B. R. Levin. 2002. Biological and biomedical implications of the co-evolution of pathogens and their hosts. Nat. Genet. 32:569–577.[[PDF]]
 
 ###  Week 7 (Guest speaker)
 I’ve left this week open to allow for a guest lecture from a visiting disease ecologist. Because I am not 100% sure of the date of this visit, I’m leaving this week as a wild card week, that may move up or down the calendar. More information coming soon.
@@ -212,6 +212,8 @@ Kristin K., Chloe D., Parker K., and Lauren M.
 
 #### Principle Readings:
 1. Bayer, A. M., G. C. Hunter, R. H. Gilman, J. G. Cornejo Del Carpio, C. Naquira, C. Bern, and M. Z. Levy. 2009. Chagas disease, migration and community settlement patterns in Arequipa, Peru. PLoS Negl. Trop. Dis. 3:e567.
+2. Wood, C. L., A. McInturff, H. S. Young, D. Kim, and K. D. Lafferty. 2017. Human infectious disease burdens decrease with urbanization but not with biodiversity. Philos. Trans. R. Soc. Lond. B Biol. Sci. 372.
+3. 
 
 #### Background Readings:
 
@@ -248,6 +250,7 @@ Kevin L. and Justin A.
 Coker, R., J. Rushton, S. Mounier-Jack, E. Karimuribo, P. Lutumba, D. Kambarage, D. U. Pfeiffer, K. Stärk, and M. Rweyemamu. 2011. Towards a conceptual framework to support one-health research for policy on emerging zoonoses. Lancet Infect. Dis. 11:326–331. Elsevier.
 
 ### Week 13: The role of ecology/environment in non-infectious disease?
+### Conservation medicine
 
 #### Show and Tell a Pathogen:
 Zac W.   *Dengue Virus*
@@ -255,6 +258,18 @@ Abby H.   *Trypanosoma cruzi*
 
 #### Weekly Discussion Leaders:
 Will D. and Preston C.
+
+#### Principle Readings:
+Here we have two data papers from the same region – the Brazilian Amazon, that reach apparently different conclusions about the role of biodiversity conservation in human health. The final paper, gives a realistic, sobering, review of what we know.
+
+1. Bauch, S. C., A. M. Birkenbach, S. K. Pattanayak, and E. O. Sills. 2015. Public health impacts of ecosystem change in the Brazilian Amazon. Proc. Natl. Acad. Sci. U. S. A. 112:7414–7419.
+2. Valle, D., and J. Clark. 2013. Conservation efforts may increase malaria burden in the Brazilian Amazon. PLoS One 8:e57519.
+3. Kilpatrick, A. M., D. J. Salkeld, G. Titcomb, and M. B. Hahn. 2017. Conservation of biodiversity as a strategy for improving human health and well-being. Philos. Trans. R. Soc. Lond. B Biol. Sci. 372. 
+
+#### Background Readings:
+For paper 1, please note the author set here. Compare the third author’s point of view in 2004 with his in 2017 (above).
+1. Daszak, P., G. M. Tabor, A. M. Kilpatrick, J. Epstein, and R. Plowright. 2004. Conservation medicine and a new agenda for emerging diseases. Ann. N. Y. Acad. Sci. 1026:1–11. Wiley Online Library.
+
 
 ### Week 14: ACAT Testing
 
