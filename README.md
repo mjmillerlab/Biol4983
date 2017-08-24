@@ -91,10 +91,10 @@ Matthew J. Miller
 #### Principle Readings:
 Please read these four papers. They are in chronological order, so reading them in this order will give you a sense of the philosophical/theoretical development of the field. These papers will give you a broad overview of the major themes that we will be discussing during the semester.
 
-1. Daszak, P., A. A. Cunningham, and A. D. Hyatt. 2000. Emerging infectious diseases of wildlife--threats to biodiversity and human health. Science 287:443–449. [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1240279/Daszak2000.pdf)
-2. Jones, K. E., N. G. Patel, M. A. Levy, A. Storeygard, D. Balk, J. L. Gittleman, and P. Daszak. 2008. Global trends in emerging infectious diseases. Nature 451:990–993.
-3. Kilpatrick, A. M., and S. E. Randolph. 2012. Drivers, dynamics, and control of emerging vector-borne zoonotic diseases. Lancet 380:1946–1955.
-4. Morse, S. S., J. A. K. Mazet, M. Woolhouse, C. R. Parrish, D. Carroll, W. B. Karesh, C. Zambrana-Torrelio, W. I. Lipkin, and P. Daszak. 2012. Prediction and prevention of the next pandemic zoonosis. Lancet 380:1956–1965.
+1. Daszak, P., A. A. Cunningham, and A. D. Hyatt. 2000. Emerging infectious diseases of wildlife--threats to biodiversity and human health. Science 287:443–449. [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1249068/Daszak2000.pdf)
+2. Jones, K. E., N. G. Patel, M. A. Levy, A. Storeygard, D. Balk, J. L. Gittleman, and P. Daszak. 2008. Global trends in emerging infectious diseases. Nature 451:990–993.[[PDF]](https://github.com/mjmillerlab/Biol4983/files/1249069/Jones2008.pdf)
+3. Kilpatrick, A. M., and S. E. Randolph. 2012. Drivers, dynamics, and control of emerging vector-borne zoonotic diseases. Lancet 380:1946–1955.[[PDF]](https://github.com/mjmillerlab/Biol4983/files/1249070/Kilpatrick2012.pdf)
+4. Morse, S. S., J. A. K. Mazet, M. Woolhouse, C. R. Parrish, D. Carroll, W. B. Karesh, C. Zambrana-Torrelio, W. I. Lipkin, and P. Daszak. 2012. Prediction and prevention of the next pandemic zoonosis. Lancet 380:1956–1965.[[PDF]](https://github.com/mjmillerlab/Biol4983/files/1249072/Morse2012.pdf)
 
 ### Week 3: Spillover
 
@@ -197,12 +197,15 @@ Tabitha B. and Katie O.
 
 #### Principle Readings:
 1. Garza, M., T. P. Feria Arroyo, E. A. Casillas, V. Sanchez-Cordero, C.-L. Rivaldi, and S. Sarkar. 2014. Projected future distributions of vectors of *Trypanosoma cruzi* in North America under climate change scenarios. PLoS Negl. Trop. Dis. 8:e2818.
+2. Daszak, P., C. Zambrana-Torrelio, T. L. Bogich, M. Fernandez, J. H. Epstein, K. A. Murray, and H. Hamilton. 2013. Interdisciplinary approaches to understanding disease emergence: the past, present, and future drivers of Nipah virus emergence. Proc. Natl. Acad. Sci. U. S. A. 110 Suppl 1:3681–3688.
+
+#### Background Readings:
 
 ### Week 10: Urbanization and disease
 
 #### Show and Tell a Pathogen:
+Cole M.     *Plasmodium falciparum*    
 Sydney G.   *Trypanosoma brucei*    
-Jay L.   *Yellow Fever Virus*    
 
 #### Weekly Discussion Leaders:
 Kristin K., Chloe D., Parker K., and Lauren M.
@@ -210,22 +213,32 @@ Kristin K., Chloe D., Parker K., and Lauren M.
 #### Principle Readings:
 1. Bayer, A. M., G. C. Hunter, R. H. Gilman, J. G. Cornejo Del Carpio, C. Naquira, C. Bern, and M. Z. Levy. 2009. Chagas disease, migration and community settlement patterns in Arequipa, Peru. PLoS Negl. Trop. Dis. 3:e567.
 
+#### Background Readings:
+
 ### Week 11: Globalization and disease
-Muneeb A.   *Babesia sp.*   
-Katie O.   *Crimean-Congo Hemorrhagic Fever Virus*
-    
+  
 #### Show and Tell a Pathogen:
+Muneeb A.   *Babesia sp.*   
+Jay L.   *Yellow Fever Virus*    
 
 #### Weekly Discussion Leaders:
+Marie L. and Michelle P.
 
 #### Principle Readings:
-1. Bryant, J. E., E. C. Holmes, and A. D. T. Barrett. 2007. Out of Africa: a molecular perspective on the introduction of yellow fever virus into the Americas. PLoS Pathog. 3:e75.   
+1. Bryant, J. E., E. C. Holmes, and A. D. T. Barrett. 2007. Out of Africa: a molecular perspective on the introduction of yellow fever virus into the Americas. PLoS Pathog. 3:e75. 
+2. Kilpatrick, A. M., A. A. Chmura, D. W. Gibbons, R. C. Fleischer, P. P. Marra, and P. Daszak. 2006. Predicting the global spread of H5N1 avian influenza. Proc. Natl. Acad. Sci. U. S. A. 103:19368–19373. National Acad Sciences.
+
+#### Background Readings:
+Yu, I. T. S., Y. Li, T. W. Wong, W. Tam, A. T. Chan, J. H. W. Lee, D. Y. C. Leung, and T. Ho. 2004. Evidence of airborne transmission of the severe acute respiratory syndrome virus. N. Engl. J. Med. 350:1731–1739. Mass Medical Soc.
 
 ### Week 12: One Health
 
 #### Show and Tell a Pathogen:
+Katie O.   *Crimean-Congo Hemorrhagic Fever Virus*    
+Heather M.   *Borrelia burgdorferi*   
 
 #### Weekly Discussion Leaders:
+Kevin L. and Justin A.
 
 #### Principle Readings:
 1. Gibbs, E. P. J. 2014. The evolution of One Health: a decade of progress and challenges for the future. Vet. Rec. 174:85–91. 
@@ -237,11 +250,19 @@ Coker, R., J. Rushton, S. Mounier-Jack, E. Karimuribo, P. Lutumba, D. Kambarage,
 ### Week 13: The role of ecology/environment in non-infectious disease?
 
 #### Show and Tell a Pathogen:
+Zac W.   *Dengue Virus*
+Abby H.   *Trypanosoma cruzi*
 
 #### Weekly Discussion Leaders:
+Will D. and Preston C.
 
 ### Week 14: ACAT Testing
-This week we will have the final three Show and Tell presentations. After these, the Biology Department will administer it’s ACAT test. ACAT stands for “Area Concentration Achievement Test” and it is a standard sort of achievement test, like you probably recall from high school. The test is not an exit exam and it does not affect your grade in this course, nor your ability to graduate. Rather, it provides the Undergraduate Studies Program with useful information about what subjects students seem to know well and which they seem to need more experience in.
+
+#### Show and Tell a Pathogen:
+Kristin K.   *Sindbis Virus*
+Justin A.    *Bartonella spp.*
+
+After Show and Tell presentations, the Biology Department will administer it’s ACAT test. ACAT stands for “Area Concentration Achievement Test” and it is a standard sort of achievement test, like you probably recall from high school. The test is not an exit exam and it does not affect your grade in this course, nor your ability to graduate. Rather, it provides the Undergraduate Studies Program with useful information about what subjects students seem to know well and which they seem to need more experience in.
 
 ### Week 15: Poster Session 
 This week we will display each of your posters in a post session, similar to what you would experience at a research conference. More details to follow.
