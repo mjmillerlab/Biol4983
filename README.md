@@ -5,7 +5,8 @@
 **Office Phone: (405) 325-2578 (I prefer email)**    
 **Office Hours: Every Monday, 2:30 to 3:30 pm (or by appointment)** 
 
-### Version 21-August-2017
+## Version 23-August-2017
+Modifications include change to office hours, updating the weekly schedule to include presenters; and completing the reading assignments.
 
 ## Overview
 Zika, Swine Flu, Bird Flu, West Nile, SARS. It seems like we hear about a new infectious disease threatening the world every day. It’s not fake news, or even the ubiquity of cable news. Around the world we face an increasing rate of newly emerging and re-emerging infectious diseases. This course will look to understand the drivers of emerging infectious diseases from ecological and evolutionary perspectives. This course is intentionally multi-disciplinary: it’s is equally appropriate for students interested in heath science careers as for students interested in careers in wildlife management and conservation. Because most emerging diseases are tropical in origin, much time will be spent discussing tropical emerging diseases such as Chikungunya, Zika, and Ebola. The core exercise in this course will be careful, and critical reading of the primary, peer-reviewed literature. The first goal for all students is to understand the evolutionary-ecology of disease, but a secondary one is to be able to read and interpret primary literature as scientists do.
@@ -80,9 +81,16 @@ PBS Documentary: Spillover – Zika, Ebola & Beyond
 https://www.youtube.com/watch?v=0dA-Ls9Iw24
 
 ### Week 2: A global perspective on emerging disease
+
+#### Show and Tell a Pathogen:
+Matthew J. Miller   *Zika Virus*
+
+#### Weekly Discussion Leaders:
+Matthew J. Miller
+
+#### Principle Readings:
 Please read these four papers. They are in chronological order, so reading them in this order will give you a sense of the philosophical/theoretical development of the field. These papers will give you a broad overview of the major themes that we will be discussing during the semester.
 
-*Principle Readings:*
 1. Daszak, P., A. A. Cunningham, and A. D. Hyatt. 2000. Emerging infectious diseases of wildlife--threats to biodiversity and human health. Science 287:443–449. [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1240279/Daszak2000.pdf)
 2. Jones, K. E., N. G. Patel, M. A. Levy, A. Storeygard, D. Balk, J. L. Gittleman, and P. Daszak. 2008. Global trends in emerging infectious diseases. Nature 451:990–993.
 3. Kilpatrick, A. M., and S. E. Randolph. 2012. Drivers, dynamics, and control of emerging vector-borne zoonotic diseases. Lancet 380:1946–1955.
@@ -91,11 +99,11 @@ Please read these four papers. They are in chronological order, so reading them 
 ### Week 3: Spillover
 
 #### Show and Tell a Pathogen:
-Tabitha B.   *Oropouche Virus*
-Lauren D.   *Onchocerca volvulus*
+Tabitha B.   *Oropouche Virus*    
+Lauren D.   *Onchocerca volvulus*   
 	
-#### Weekly Presentors:
-Heather and Zac
+#### Weekly Discussion Leaders:
+Heather M. and Zac W.
 
 #### Principle Readings:
 1. Plowright, R. K., P. Eby, P. J. Hudson, I. L. Smith, D. Westcott, W. L. Bryden, D. Middleton, P. A. Reid, R. A. McFarlane, G. Martin, G. M. Tabor, L. F. Skerratt, D. L. Anderson, G. Crameri, D. Quammen, D. Jordan, P. Freeman, L.-F. Wang, J. H. Epstein, G. A. Marsh, N. Y. Kung, and H. McCallum. 2015. Ecological dynamics of emerging bat virus spillover. Proc. Biol. Sci. 282:20142124.
@@ -108,54 +116,129 @@ Heather and Zac
 ### Week 4: Dilution Effect
 
 #### Show and Tell a Pathogen:
-Preston C.   *Mayaro Virus*
-Chloe Denham	*Rickettsia rickettsii*
+Preston C.   *Mayaro Virus*    
+Chloe D.	*Rickettsia rickettsia*    
+
+#### Weekly Discussion Leaders:
+Cole B. and Lauren D.
 
 #### Principle Readings:
 1. Civitello, D. J., J. Cohen, H. Fatima, N. T. Halstead, J. Liriano, T. A. McMahon, C. N. Ortega, E. L. Sauer, T. Sehgal, S. Young, and J. R. Rohr. 2015. Biodiversity inhibits parasites: Broad evidence for the dilution effect. Proc. Natl. Acad. Sci. U. S. A. 112:8667–8671. National Acad Sciences.
 2. Johnson PTJ, Preston DL, Hoverman JT, Richgels KLD. Biodiversity decreases disease through predictable changes in host community competence. Nature 2013; 494(7436): 230-3.
 
-*Background:*
+#### Background Readings:
 1. Keesing F, Holt RD, Ostfeld RS. Effects of species diversity on disease risk. Ecol Lett 2006; 9(4): 485-98
 2. Keesing, F., L. K. Belden, P. Daszak, A. Dobson, C. D. Harvell, R. D. Holt, P. Hudson, A. Jolles, K. E. Jones, C. E. Mitchell, S. S. Myers, T. Bogich, and R. S. Ostfeld. 2010. Impacts of biodiversity on the emergence and transmission of infectious diseases. Nature 468:647–652. 
 
 ### Week 5: Deforestation Effect 
-*Principle Readings:*
+
+#### Show and Tell a Pathogen:
+Michelle P.    *Leishmania spp*.     
+Parker K.   *Lassa Virus*     
+
+#### Weekly Discussion Leaders:
+Sheila N. , James R, Cole M., and Adam S.
+
+#### Principle Readings:
 1. Vittor, A. Y., W. Pan, R. H. Gilman, J. Tielsch, G. Glass, T. Shields, W. Sánchez-Lozano, V. V. Pinedo, E. Salas-Cobos, S. Flores, and J. A. Patz. 2009. Linking deforestation to malaria in the Amazon: characterization of the breeding habitat of the principal malaria vector, *Anopheles darlingi*. Am. J. Trop. Med. Hyg. 81:5–12.
 2. Gottdenker, N. L., L. F. Chaves, J. E. Calzada, A. Saldaña, and C. R. Carroll. 2012. Host life history strategy, species diversity, and habitat influence *Trypanosoma cruzi* vector infection in Changing landscapes. PLoS Negl. Trop. Dis. 6:e1884.
 
-*Background:*
+#### Background Readings:
 1. Vittor, A. Y., R. H. Gilman, J. Tielsch, G. Glass, T. Shields, W. S. Lozano, V. Pinedo-Cancino, and J. A. Patz. 2006. The effect of deforestation on the human-biting rate of *Anopheles darlingi*, the primary vector of Falciparum malaria in the Peruvian Amazon. Am. J. Trop. Med. Hyg. 74:3–11. ASTMH.
 2. Tucker Lima, J. M., A. Vittor, S. Rifai, and D. Valle. 2017. Does deforestation promote or inhibit malaria transmission in the Amazon? A systematic literature review and critical appraisal of current evidence. Philos. Trans. R. Soc. Lond. B Biol. Sci. 372.
 A. Vittor.
 
 ### Week 6: Evolution of Virulence
+
+#### Show and Tell a Pathogen:
+Kevin L.   *West Nile Virus*    
+Adam S.   *Taenia solium*    
+
+#### Weekly Discussion Leaders:
+Abby H. and Muneeb A.
+
 This week’s readings are quite interesting, as they present two different evolutionary pathways for an evolutionary of virulence in vector-borne disease.
-*Principle Readings:*
+
+#### Principle Readings:
 1. Rico-Hesse, R., L. M. Harrison, R. A. Salas, D. Tovar, A. Nisalak, C. Ramos, J. Boshell, M. T. de Mesa, R. M. Nogueira, and A. T. da Rosa. 1997. Origins of dengue type 2 viruses associated with increased pathogenicity in the Americas. Virology 230:244–251.
 2. Liu, Y., J. Liu, S. Du, C. Shan, K. Nie, R. Zhang, X.-F. Li, R. Zhang, T. Wang, C.-F. Qin, P. Wang, P.-Y. Shi, and G. Cheng. 2017. Evolutionary enhancement of Zika virus infectivity in *Aedes aegypti* mosquitoes. Nature 545:482–486.
 
-*Background:*
+#### Background Readings:
 1. Lenski, R. E., and R. M. May. 1994. The evolution of virulence in parasites and pathogens: reconciliation between two competing hypotheses. J. Theor. Biol. 169:253–265.
 2. Woolhouse, M. E. J., Webster, J. P., Domingo, E., Charlesworth, B., and Levin, B. R., Biological and biomedical implications of the co-evolution of pathogens and their hosts Nature Genetics32 (4), 569 (2002)
 
 ###  Week 7 (Guest speaker)
 I’ve left this week open to allow for a guest lecture from a visiting disease ecologist. Because I am not 100% sure of the date of this visit, I’m leaving this week as a wild card week, that may move up or down the calendar. More information coming soon.
 
-(Readings for weeks 8 – 12 are pending)
 ### Week 8: Urban - Forest Disease Dynamics
+
+#### Show and Tell a Pathogen:
+Marie L.   *Nipah Virus*     
+James R.   *Chikungunya Virus*    
+
+#### Weekly Discussion Leaders:
+Sydney G. and Jay L.
+
+#### Principle Readings:
+1. Althouse, B. M., N. Vasilakis, A. A. Sall, M. Diallo, S. C. Weaver, and K. A. Hanley. 2016. Potential for Zika Virus to Establish a Sylvatic Transmission Cycle in the Americas. PLoS Negl. Trop. Dis. 10:e0005055.
+2. Vasilakis, N., J. Cardosa, K. A. Hanley, E. C. Holmes, and S. C. Weaver. 2011. Fever from the forest: prospects for the continued emergence of sylvatic dengue virus and its impact on public health. Nat. Rev. Microbiol. 9:532. NIH Public Access.
+
+#### Background Readings:
+Vasilakis, N., and S. C. Weaver. 2017. Flavivirus transmission focusing on Zika. Curr. Opin. Virol. 22:30–35.
+
 ### Week 9: Climate change and emerging disease
+
+#### Show and Tell a Pathogen:
+Sheila N.   *Hanta Virus*    
+Lauren M.   *Orientia tsutsugamushi*    
+
+#### Weekly Discussion Leaders:
+Tabitha B. and Katie O.
+
+#### Principle Readings:
+1. Garza, M., T. P. Feria Arroyo, E. A. Casillas, V. Sanchez-Cordero, C.-L. Rivaldi, and S. Sarkar. 2014. Projected future distributions of vectors of *Trypanosoma cruzi* in North America under climate change scenarios. PLoS Negl. Trop. Dis. 8:e2818.
+
 ### Week 10: Urbanization and disease
-*Principle Readings*
+
+#### Show and Tell a Pathogen:
+Sydney G.   *Trypanosoma brucei*    
+Jay L.   *Yellow Fever Virus*    
+
+#### Weekly Discussion Leaders:
+Kristin K., Chloe D., Parker K., and Lauren M.
+
+#### Principle Readings:
 1. Bayer, A. M., G. C. Hunter, R. H. Gilman, J. G. Cornejo Del Carpio, C. Naquira, C. Bern, and M. Z. Levy. 2009. Chagas disease, migration and community settlement patterns in Arequipa, Peru. PLoS Negl. Trop. Dis. 3:e567.
 
 ### Week 11: Globalization and disease
-*Principle Readings*
+Muneeb A.   *Babesia sp.*   
+Katie O.   *Crimean-Congo Hemorrhagic Fever Virus*
+    
+#### Show and Tell a Pathogen:
+
+#### Weekly Discussion Leaders:
+
+#### Principle Readings:
 1. Bryant, J. E., E. C. Holmes, and A. D. T. Barrett. 2007. Out of Africa: a molecular perspective on the introduction of yellow fever virus into the Americas. PLoS Pathog. 3:e75.   
 
 ### Week 12: One Health
 
+#### Show and Tell a Pathogen:
+
+#### Weekly Discussion Leaders:
+
+#### Principle Readings:
+1. Gibbs, E. P. J. 2014. The evolution of One Health: a decade of progress and challenges for the future. Vet. Rec. 174:85–91. 
+2. Fitzpatrick, M. C., H. A. Shah, A. Pandey, A. M. Bilinski, M. Kakkar, A. D. Clark, J. P. Townsend, S. S. Abbas, and A. P. Galvani. 2016. One Health approach to cost-effective rabies control in India. Proc. Natl. Acad. Sci. U. S. A. 113:14574–14581. National Acad Sciences.
+
+#### Background Readings:
+Coker, R., J. Rushton, S. Mounier-Jack, E. Karimuribo, P. Lutumba, D. Kambarage, D. U. Pfeiffer, K. Stärk, and M. Rweyemamu. 2011. Towards a conceptual framework to support one-health research for policy on emerging zoonoses. Lancet Infect. Dis. 11:326–331. Elsevier.
+
 ### Week 13: The role of ecology/environment in non-infectious disease?
+
+#### Show and Tell a Pathogen:
+
+#### Weekly Discussion Leaders:
 
 ### Week 14: ACAT Testing
 This week we will have the final three Show and Tell presentations. After these, the Biology Department will administer it’s ACAT test. ACAT stands for “Area Concentration Achievement Test” and it is a standard sort of achievement test, like you probably recall from high school. The test is not an exit exam and it does not affect your grade in this course, nor your ability to graduate. Rather, it provides the Undergraduate Studies Program with useful information about what subjects students seem to know well and which they seem to need more experience in.
@@ -178,7 +261,7 @@ This week we will display each of your posters in a post session, similar to wha
 12. Hanta Virus
 13. *Trypanosoma cruzi*
 14. *Leishmania spp*.
-15. *Babesia spp*.
+15. *Babesia sp.*
 16. *Taenia solium*
 17. *Orientia tsutsugamushi*
 18. *Bartonella spp*.
@@ -190,8 +273,8 @@ This week we will display each of your posters in a post session, similar to wha
 24. Ebola Virus
 25. Lassa Virus
 
-### Course Policies
-#### Attendance and Make-up Assignments:
+## Course Policies
+### Attendance and Make-up Assignments:
 This course only meets once per week, so attendance is mandatory. 100 points (including the missed reading quiz points) will be deducted from your final grade for each class missed after the first absence (if 3 classes are missed, 200 points will be deducted from your final grade; if one class is missed, no points will be deducted but participation points from that class will be forfeited). If you miss four or more classes, you will receive an “F” as your course grade. 
 
 Likewise, reading quizzes start promptly at 6:30 PM, and last 10 minutes. We cannot postpone discussion to allow you to “have extra time” if you show up late for class. There are no make up opportunities for reading quizzes for which you arrive late.
@@ -200,20 +283,20 @@ I will make every effort to find a reasonable accommodation for students who mis
  
 All graded events occur at a specific time. Your presentation occurs on a given week; all posters are shared with the department during the penultimate class session. Therefore, there is no accommodation for late assignments. If you fail to deliver your presentation or poster on the given date, you will receive a 0 for the assignment.
 
-### University Policies 
-#### Academic Integrity
+## University Policies 
+### Academic Integrity
 Violations of academic integrity are strictly prohibited at the University of Oklahoma. As a member of the OU community it is your responsibility to protect your educational investment by knowing and following the rules. For specific definitions on what constitutes violations of honesty and responsibility in scholarship, review the Student’s Guide to Academic Integrity at http://integrity.ou.edu/students_guide.html.
  
 To be successful in this class, all work must be yours and yours alone. You may not receive outside help. During reading quizzes you will never be permitted to use your notes, textbooks, calculators, or any other study aids. Should you see someone else engaging in this behavior, I encourage you to report it to myself or directly to the Office of Academic Integrity Programs. That student is devaluing not only their degree, but yours, too. Note that it is my professional obligation to report academic misconduct, which I will not hesitate to do. Sanctions for academic misconduct can include expulsion from the University and an “F” in this course. 
  
-#### Religious Observance
+### Religious Observance
 It is the policy of the University to excuse the absences of students that result from religious observances and to reschedule examinations and additional required classwork that may fall on religious holidays, without penalty. (/I don’t believe that any religious holidays fall during our scheduled meeting period, but if your’s does, please contact me immediately./)
 
-#### Reasonable Accommodation Policy
+### Reasonable Accommodation Policy
 Students requiring academic accommodation should contact the Disability Resource Center for assistance at (405) 325-3852 or TDD: (405) 325-4173. For more information please see the Disability Resource Center website http://www.ou.edu/drc/home.html. Any student in this course who has a disability that may prevent him or her from fully demonstrating his or her abilities should contact me personally as soon as possible so we can discuss accommodations necessary to ensure full participation and facilitate your educational opportunities.
  
-#### Title IX Resources and Reporting Requirement
+### Title IX Resources and Reporting Requirement
 For any concerns regarding gender-based discrimination, sexual harassment, sexual assault, dating / domestic violence, or stalking, the University offers a variety of resources. To learn more or to report an incident, please contact the Sexual Misconduct Office at 405/325-2215 (8 to 5, M-F) or smo@ou.edu. Incidents can also be reported confidentially to OU Advocates at 405/615-0013 (phones are answered 24 hours a day, 7 days a week). Also, please be advised that a professor/GA/TA is required to report instances of sexual harassment, sexual assault, or discrimination to the Sexual Misconduct Office.  Inquiries regarding non-discrimination policies may be directed to: Bobby J. Mason, University Equal Opportunity Officer and Title IX Coordinator at 405/325-3546 or bjm@ou.edu. For more information, visit http://www.ou.edu/eoo.html.
  
-#### Adjustments for Pregnancy/Childbirth Related Issues
+### Adjustments for Pregnancy/Childbirth Related Issues
 Should you need modifications or adjustments to your course requirements because of documented pregnancy-related or childbirth-related issues, please contact your professor or the Disability Resource Center at 405/325-3852 as soon as possible. Also, see http://www.ou.edu/eoo/faqs/pregnancy-faqs.html for answers to commonly asked questions.
