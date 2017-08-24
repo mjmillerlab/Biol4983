@@ -92,9 +92,9 @@ Matthew J. Miller
 Please read these four papers. They are in chronological order, so reading them in this order will give you a sense of the philosophical/theoretical development of the field. These papers will give you a broad overview of the major themes that we will be discussing during the semester.
 
 1. Daszak, P., A. A. Cunningham, and A. D. Hyatt. 2000. Emerging infectious diseases of wildlife--threats to biodiversity and human health. Science 287:443–449. [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1249068/Daszak2000.pdf)
-2. Jones, K. E., N. G. Patel, M. A. Levy, A. Storeygard, D. Balk, J. L. Gittleman, and P. Daszak. 2008. Global trends in emerging infectious diseases. Nature 451:990–993.[[PDF]](https://github.com/mjmillerlab/Biol4983/files/1249069/Jones2008.pdf)
-3. Kilpatrick, A. M., and S. E. Randolph. 2012. Drivers, dynamics, and control of emerging vector-borne zoonotic diseases. Lancet 380:1946–1955.[[PDF]](https://github.com/mjmillerlab/Biol4983/files/1249070/Kilpatrick2012.pdf)
-4. Morse, S. S., J. A. K. Mazet, M. Woolhouse, C. R. Parrish, D. Carroll, W. B. Karesh, C. Zambrana-Torrelio, W. I. Lipkin, and P. Daszak. 2012. Prediction and prevention of the next pandemic zoonosis. Lancet 380:1956–1965.[[PDF]](https://github.com/mjmillerlab/Biol4983/files/1249072/Morse2012.pdf)
+2. Jones, K. E., N. G. Patel, M. A. Levy, A. Storeygard, D. Balk, J. L. Gittleman, and P. Daszak. 2008. Global trends in emerging infectious diseases. Nature 451:990–993. [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1249069/Jones2008.pdf)
+3. Kilpatrick, A. M., and S. E. Randolph. 2012. Drivers, dynamics, and control of emerging vector-borne zoonotic diseases. Lancet 380:1946–1955. [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1249070/Kilpatrick2012.pdf)
+4. Morse, S. S., J. A. K. Mazet, M. Woolhouse, C. R. Parrish, D. Carroll, W. B. Karesh, C. Zambrana-Torrelio, W. I. Lipkin, and P. Daszak. 2012. Prediction and prevention of the next pandemic zoonosis. Lancet 380:1956–1965. [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1249072/Morse2012.pdf)
 
 ### Week 3: Spillover
 
@@ -106,12 +106,12 @@ Lauren D.   *Onchocerca volvulus*
 Heather M. and Zac W.
 
 #### Principle Readings:
-1. Plowright, R. K., P. Eby, P. J. Hudson, I. L. Smith, D. Westcott, W. L. Bryden, D. Middleton, P. A. Reid, R. A. McFarlane, G. Martin, G. M. Tabor, L. F. Skerratt, D. L. Anderson, G. Crameri, D. Quammen, D. Jordan, P. Freeman, L.-F. Wang, J. H. Epstein, G. A. Marsh, N. Y. Kung, and H. McCallum. 2015. Ecological dynamics of emerging bat virus spillover. Proc. Biol. Sci. 282:20142124.[[PDF]](https://github.com/mjmillerlab/Biol4983/files/1249086/Plowright2015.pdf)
-2. 2. Sharp, P. M., and B. H. Hahn. 2011. Origins of HIV and the AIDS pandemic. Cold Spring Harb. Perspect. Med. 1:a006841.[[PDF]](https://github.com/mjmillerlab/Biol4983/files/1249088/Sharp2011.pdf)
+1. Plowright, R. K., P. Eby, P. J. Hudson, I. L. Smith, D. Westcott, W. L. Bryden, D. Middleton, P. A. Reid, R. A. McFarlane, G. Martin, G. M. Tabor, L. F. Skerratt, D. L. Anderson, G. Crameri, D. Quammen, D. Jordan, P. Freeman, L.-F. Wang, J. H. Epstein, G. A. Marsh, N. Y. Kung, and H. McCallum. 2015. Ecological dynamics of emerging bat virus spillover. Proc. Biol. Sci. 282:20142124. [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1249086/Plowright2015.pdf)
+2. 2. Sharp, P. M., and B. H. Hahn. 2011. Origins of HIV and the AIDS pandemic. Cold Spring Harb. Perspect. Med. 1:a006841. [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1249088/Sharp2011.pdf)
 
 #### Background Readings:
 1. Parrish, C. R., E. C. Holmes, D. M. Morens, E.-C. Park, D. S. Burke, C. H. Calisher, C. A. Laughlin, L. J. Saif, and P. Daszak. 2008. Cross-species virus transmission and the emergence of new epidemic diseases. Microbiol. Mol. Biol. Rev. 72:457–470. [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1249084/Parrish2008.pdf)
-2. Plowright, R. K., C. R. Parrish, H. McCallum, P. J. Hudson, A. I. Ko, A. L. Graham, and J. O. Lloyd-Smith. 2017. Pathways to zoonotic spillover. Nat. Rev. Microbiol. 15:502–510.[[PDF]](https://github.com/mjmillerlab/Biol4983/files/1249087/Plowright2017.pdf)
+2. Plowright, R. K., C. R. Parrish, H. McCallum, P. J. Hudson, A. I. Ko, A. L. Graham, and J. O. Lloyd-Smith. 2017. Pathways to zoonotic spillover. Nat. Rev. Microbiol. 15:502–510. [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1249087/Plowright2017.pdf)
 
 ### Week 4: Dilution Effect
 
@@ -160,12 +160,12 @@ Abby H. and Muneeb A.
 This week’s readings are quite interesting, as they present two different evolutionary pathways for an evolutionary of virulence in vector-borne disease.
 
 #### Principle Readings:
-1. Rico-Hesse, R., L. M. Harrison, R. A. Salas, D. Tovar, A. Nisalak, C. Ramos, J. Boshell, M. T. de Mesa, R. M. Nogueira, and A. T. da Rosa. 1997. Origins of dengue type 2 viruses associated with increased pathogenicity in the Americas. Virology 230:244–251.[[PDF]](https://github.com/mjmillerlab/Biol4983/files/1249435/Rico-Hesse1997.pdf)
-2. Liu, Y., J. Liu, S. Du, C. Shan, K. Nie, R. Zhang, X.-F. Li, R. Zhang, T. Wang, C.-F. Qin, P. Wang, P.-Y. Shi, and G. Cheng. 2017. Evolutionary enhancement of Zika virus infectivity in *Aedes aegypti* mosquitoes. Nature 545:482–486.[[PDF]](https://github.com/mjmillerlab/Biol4983/files/1249433/Liu2017.pdf)
+1. Rico-Hesse, R., L. M. Harrison, R. A. Salas, D. Tovar, A. Nisalak, C. Ramos, J. Boshell, M. T. de Mesa, R. M. Nogueira, and A. T. da Rosa. 1997. Origins of dengue type 2 viruses associated with increased pathogenicity in the Americas. Virology 230:244–251. [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1249435/Rico-Hesse1997.pdf)
+2. Liu, Y., J. Liu, S. Du, C. Shan, K. Nie, R. Zhang, X.-F. Li, R. Zhang, T. Wang, C.-F. Qin, P. Wang, P.-Y. Shi, and G. Cheng. 2017. Evolutionary enhancement of Zika virus infectivity in *Aedes aegypti* mosquitoes. Nature 545:482–486. [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1249433/Liu2017.pdf)
 
 #### Background Readings:
-1. Lenski, R. E., and R. M. May. 1994. The evolution of virulence in parasites and pathogens: reconciliation between two competing hypotheses. J. Theor. Biol. 169:253–265.[[PDF]]
-2. Woolhouse, M. E. J., J. P. Webster, E. Domingo, B. Charlesworth, and B. R. Levin. 2002. Biological and biomedical implications of the co-evolution of pathogens and their hosts. Nat. Genet. 32:569–577.[[PDF]](https://github.com/mjmillerlab/Biol4983/files/1249434/Woolhouse2002.pdf)
+1. Lenski, R. E., and R. M. May. 1994. The evolution of virulence in parasites and pathogens: reconciliation between two competing hypotheses. J. Theor. Biol. 169:253–265. [[PDF]]
+2. Woolhouse, M. E. J., J. P. Webster, E. Domingo, B. Charlesworth, and B. R. Levin. 2002. Biological and biomedical implications of the co-evolution of pathogens and their hosts. Nat. Genet. 32:569–577. [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1249434/Woolhouse2002.pdf)
 
 ###  Week 7 (Guest speaker)
 I’ve left this week open to allow for a guest lecture from a visiting disease ecologist. Because I am not 100% sure of the date of this visit, I’m leaving this week as a wild card week, that may move up or down the calendar. More information coming soon.
