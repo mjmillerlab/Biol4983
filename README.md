@@ -164,7 +164,7 @@ This week’s readings are quite interesting, as they present two different evol
 2. Liu, Y., J. Liu, S. Du, C. Shan, K. Nie, R. Zhang, X.-F. Li, R. Zhang, T. Wang, C.-F. Qin, P. Wang, P.-Y. Shi, and G. Cheng. 2017. Evolutionary enhancement of Zika virus infectivity in *Aedes aegypti* mosquitoes. Nature 545:482–486. [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1249433/Liu2017.pdf)
 
 #### Background Readings:
-1. Lenski, R. E., and R. M. May. 1994. The evolution of virulence in parasites and pathogens: reconciliation between two competing hypotheses. J. Theor. Biol. 169:253–265. [[PDF]]
+1. Lenski, R. E., and R. M. May. 1994. The evolution of virulence in parasites and pathogens: reconciliation between two competing hypotheses. J. Theor. Biol. 169:253–265. [[PDF](https://github.com/mjmillerlab/Biol4983/files/1319658/Lenski1994.pdf)]
 2. Woolhouse, M. E. J., J. P. Webster, E. Domingo, B. Charlesworth, and B. R. Levin. 2002. Biological and biomedical implications of the co-evolution of pathogens and their hosts. Nat. Genet. 32:569–577. [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1249434/Woolhouse2002.pdf)
 
 ###  Week 7 (Guest speaker)
