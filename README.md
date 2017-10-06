@@ -170,8 +170,8 @@ This week’s readings are quite interesting, as they present two different evol
 ### Week 7: Globalization and disease
   
 #### Show and Tell a Pathogen:
-Cole B.
-??????
+Cole B. *Ebola Virus*
+??????   *???????*
  
 #### Weekly Discussion Leaders:
 Marie L. and Michelle P.
