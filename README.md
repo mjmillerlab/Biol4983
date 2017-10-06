@@ -167,8 +167,21 @@ This week’s readings are quite interesting, as they present two different evol
 1. Lenski, R. E., and R. M. May. 1994. The evolution of virulence in parasites and pathogens: reconciliation between two competing hypotheses. J. Theor. Biol. 169:253–265. [[PDF](https://github.com/mjmillerlab/Biol4983/files/1319658/Lenski1994.pdf)]
 2. Woolhouse, M. E. J., J. P. Webster, E. Domingo, B. Charlesworth, and B. R. Levin. 2002. Biological and biomedical implications of the co-evolution of pathogens and their hosts. Nat. Genet. 32:569–577. [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1249434/Woolhouse2002.pdf)
 
-###  Week 7 (Guest speaker)
-I’ve left this week open to allow for a guest lecture from a visiting disease ecologist. Because I am not 100% sure of the date of this visit, I’m leaving this week as a wild card week, that may move up or down the calendar. More information coming soon.
+### Week 7: Globalization and disease
+  
+#### Show and Tell a Pathogen:
+Cole B.
+??????
+ 
+#### Weekly Discussion Leaders:
+Marie L. and Michelle P.
+
+#### Principle Readings:
+1. Bryant, J. E., E. C. Holmes, and A. D. T. Barrett. 2007. Out of Africa: a molecular perspective on the introduction of yellow fever virus into the Americas. PLoS Pathog. 3:e75. [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1250393/Bryant2007.pdf)
+2. Kilpatrick, A. M., A. A. Chmura, D. W. Gibbons, R. C. Fleischer, P. P. Marra, and P. Daszak. 2006. Predicting the global spread of H5N1 avian influenza. Proc. Natl. Acad. Sci. U. S. A. 103:19368–19373. [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1250392/Kilpatrick2006.pdf)
+#### Background Readings:
+1. Yu, I. T. S., Y. Li, T. W. Wong, W. Tam, A. T. Chan, J. H. W. Lee, D. Y. C. Leung, and T. Ho. 2004. Evidence of airborne transmission of the severe acute respiratory syndrome virus. N. Engl. J. Med. 350:1731–1739. [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1250391/Yu2004.pdf)
+2. MacPherson, D. W., B. D. Gushulak, W. B. Baine, S. Bala, P. O. Gubbins, P. Holtom, and M. Segarra-Newnham. 2009. Population mobility, globalization, and antimicrobial drug resistance. Emerg. Infect. Dis. 15:1727. [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1250390/MacPherson2009.pdf)
 
 ### Week 8: Urban - Forest Disease Dynamics
 
@@ -225,21 +238,15 @@ Kristin K., Chloe D., Parker K., and Lauren M.
 1. Hotez, P. J. 2017. Global urbanization and the neglected tropical diseases. PLoS Negl. Trop. Dis. 11:e0005308. [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1250386/Hotez2017.pdf)
 2. Borroto, R. J., and R. Martinez-Piedra. 2000. Geographical patterns of cholera in Mexico, 1991–1996. Int. J. Epidemiol. 29:764–772.  [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1250388/Borroto2000.pdf)
 
-### Week 11: Globalization and disease
-  
+###  Week 11 (Guest speaker: Dr. Jose Loaiza, INDICASAT-AIP, Panama and the Smithsonian Tropical Research Institute also a profesor at the University of Panama)
+
 #### Show and Tell a Pathogen:
 Muneeb A.   *Babesia sp.*   
-Jay L.   *Yellow Fever Virus*    
+Jay L.   *Yellow Fever Virus*   
 
-#### Weekly Discussion Leaders:
-Marie L. and Michelle P.
+Dr Loaiza will present his research. The paper that he and I would like you to read is:
 
-#### Principle Readings:
-1. Bryant, J. E., E. C. Holmes, and A. D. T. Barrett. 2007. Out of Africa: a molecular perspective on the introduction of yellow fever virus into the Americas. PLoS Pathog. 3:e75. [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1250393/Bryant2007.pdf)
-2. Kilpatrick, A. M., A. A. Chmura, D. W. Gibbons, R. C. Fleischer, P. P. Marra, and P. Daszak. 2006. Predicting the global spread of H5N1 avian influenza. Proc. Natl. Acad. Sci. U. S. A. 103:19368–19373. [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1250392/Kilpatrick2006.pdf)
-#### Background Readings:
-1. Yu, I. T. S., Y. Li, T. W. Wong, W. Tam, A. T. Chan, J. H. W. Lee, D. Y. C. Leung, and T. Ho. 2004. Evidence of airborne transmission of the severe acute respiratory syndrome virus. N. Engl. J. Med. 350:1731–1739. [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1250391/Yu2004.pdf)
-2. MacPherson, D. W., B. D. Gushulak, W. B. Baine, S. Bala, P. O. Gubbins, P. Holtom, and M. Segarra-Newnham. 2009. Population mobility, globalization, and antimicrobial drug resistance. Emerg. Infect. Dis. 15:1727. [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1250390/MacPherson2009.pdf)
+1.  Miller MJ, Loaiza JR. Geographic expansion of the invasive mosquito Aedes albopictus across Panama—Implications for control of dengue and chikungunya viruses. PLoS neglected tropical diseases. 2015 Jan 8;9(1):e0003383. [[PDF]](http://www.stri.si.edu/sites/publications/PDFs/2015_Miller_Loaiza_Plos-Neg.pdf)
 
 ### Week 12: One Health
 
@@ -262,7 +269,7 @@ Kevin L. and Justin A.
 
 #### Show and Tell a Pathogen:
 Zac W.   *Dengue Virus*
-Abby H.   *Trypanosoma cruzi*
+Abby H.  *Trypanosoma cruzi*
 
 #### Weekly Discussion Leaders:
 Will D. and Preston C.
