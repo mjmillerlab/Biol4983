@@ -171,7 +171,7 @@ This week’s readings are quite interesting, as they present two different evol
   
 #### Show and Tell a Pathogen:
 Cole B. *Ebola Virus*
-??????   *???????*
+Will D.   *???????*
  
 #### Weekly Discussion Leaders:
 Marie L. and Michelle P.
