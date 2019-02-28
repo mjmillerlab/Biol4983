@@ -1,27 +1,24 @@
-# Emerging Disease Ecology
+# # Emerging Disease Ecology
 **Instructor: Dr. Matthew J. Miller**   
 **Office:  Sam Noble Museum, 302A**  
 **Email: mjmiller@ou.edu**   
-**Office Phone: (405) 325-2578 (I prefer email)**    
-**Office Hours: Every Monday, 2:30 to 3:30 pm (or by appointment)** 
+**Office Phone: N/A, (Please contact me via email)**    
+**Office Hours: Monday or Thursday afternoons  by appointment)** 
 
-## Version 24-August-2017v2
-Modifications include change to office hours, updating the weekly schedule to include presenters; and completing the reading assignments.
-
+## Version 1(2019.02.24)
 ## Overview
 Zika, Swine Flu, Bird Flu, West Nile, SARS. It seems like we hear about a new infectious disease threatening the world every day. It’s not fake news, or even the ubiquity of cable news. Around the world we face an increasing rate of newly emerging and re-emerging infectious diseases. This course will look to understand the drivers of emerging infectious diseases from ecological and evolutionary perspectives. This course is intentionally multi-disciplinary: it’s is equally appropriate for students interested in heath science careers as for students interested in careers in wildlife management and conservation. Because most emerging diseases are tropical in origin, much time will be spent discussing tropical emerging diseases such as Chikungunya, Zika, and Ebola. The core exercise in this course will be careful, and critical reading of the primary, peer-reviewed literature. The first goal for all students is to understand the evolutionary-ecology of disease, but a secondary one is to be able to read and interpret primary literature as scientists do.
 
 ## Course Description
-This course is a senior seminar course, a requirement for Biology majors that is intended to hone your skills of biological interpretation — including how you can apply biological concepts to local, regional, and global problems — and also to hone your understanding of how scientists perform research.
+This course is a senior Capstone course, a requirement for Biology majors that is intended to hone your skills of biological interpretation — including how you can apply biological concepts to local, regional, and global problems — and also to hone your understanding of how scientists perform research.
 
 Disease ecology is a broad field, and there are several approaches to how this material could be taught. Given the capstone seminar nature of our course, I have chosen to focus on emerging zoonotic terrestrial diseases that affect humans. Disease ecology can also be taught in terms of wild and domestic plant diseases, marine diseases, etc. While those topics won’t be our focus in the course, the general ecological and evolutionary principles addressed in this course are applicable to those systems.
 
 ## Expectations
-(I’ve borrowed heavily from Dr. [Dan Allen](http://www.allenlab.org/)’s Fall 2016 Seminar Syllabus for these)
 
-This is a seminar course, which means there will be no lectures.  This means that if you miss class, you won’t be able to catch up by looking over powerpoint slides or another student’s notes. So the most important expectation  is to attend class.
+This is a seminar course, which means there will be no lectures.  This means that if you miss class, you won’t be able to catch up by looking over powerpoint slides or another student’s notes. So the most important expectation is to attend class.
 
-Secondly, as a seminar, this course is reading heavy and discussion heavy. Because our discussions will focus on the reading that we do, it is imperative that we all do a careful job with the reading. I have found that weekly reading quizzes ensure that students read carefully, and that as a result our discussions are more enriching. You won’t find the answer to reading quizzes in the papers’ abstracts, but the correct answer will be apparent if you read the paper carefully, taking notes. 
+Secondly, as a seminar, this course is reading heavy and discussion heavy. Because our discussions will focus on the reading that we do, it is imperative that we all do a careful job with the reading. I have found that weekly reading quizzes ensure that students read carefully, and that as a result our discussions are more enriching. These quizzes require short answer responses. You won’t find the answer to reading quizzes in the papers’ abstracts, but you should be able to provide the correct answer if you read the paper carefully, taking notes. Many times I will ask you to interpret a figure, sometimes I will ask you to sketch a graph showing the principle findings of the paper. Prior students found the initial reading quizzes to be difficult. It may take a few weeks to learn how best to read papers. Expect your grade on reading quizzes to improve over the semester.  Occasionally, bonus questions are offered.
 
 Thirdly, the success of this class is measured largely in the success of the discussions. A large portion of your grade (in fact the largest percentage) will be based on your participation in these discussions, which means several important things:
  
@@ -29,12 +26,12 @@ You need to share your ideas and perspectives with the rest of the class. Simply
 	
 You must respect the ideas and perspectives of other students. We will have an open and welcoming climate for all views, ideas, questions, and perspectives … with the exception of those that are disrespectful towards others. Contributing to the class in manner that is disrespectful to others will count as negative points towards your participation grade. Repeat offenders will be asked to leave the class.
 	
-You need to have ideas and perspectives to share with the class in the discussions, which means you have to A) perform any assigned readings ahead time, and B) take some time to think to generate ideas and perspectives prior to the discussion taking place.
+You need to have ideas and perspectives to share with the class in the discussions, which means you have to A) perform any assigned readings ahead time, and B) take some time to think to generate ideas and perspectives prior to the discussion taking place. Each week, I will provide you a qualitative evaluation of your participation (Excellent, Good, Fair, Poor) in Canvas.
 
-Lastly, I have expectations for myself in the role of instructor of this class. First, you can expect me to be fair and reasonable. Second, you can expect me to be considerate and respectful. Third, you can expect me to be available outside of class.  This includes being available during office hours, and also by email. I will do my best to respond within 24 to 48 hours during the week (unless I am out of town). On the weekends, I’ll try to answer emails on Sunday nights. Finally, you can expect me to be flexible and responsive to student input.
+Lastly, I have expectations for myself in the role of instructor of this class. First, you can expect me to be fair and reasonable. Second, you can expect me to be considerate and respectful. Third, you can expect me to be available outside of class. This includes being available during office hours, and also by email. I will do my best to respond within 24 to 48 hours during the week (unless I am out of town). On the weekends, I’ll try to answer emails on Sunday nights. Finally, you can expect me to be flexible and responsive to student input.
 
 ## Organization of Weekly Seminar
-Each week (with the exception of week 1) will have the following format:
+Each week (with the exception of week 1, 14, 15) will have the following format:
 
 1. Reading Quiz 
 2. Show and Tell A Pathogen (2 students per week)
@@ -48,19 +45,19 @@ As described above, the reading quiz is designed to demonstrate that you have re
 ### Show and Tell A Pathogen
 In week 1, each student will be assigned a pathogen (see list below) that you are to present to the class in the form of a show and tell. Typically, this is as a power point or similar presentation. The idea is for you to provide an in depth discussion of the interesting ecological or evolutionary aspects of your pathogen, through an interpretation of the primary literature. I’ve chosen /zoonoses/ (a term you will learn in this class) that have sufficient primary, peer-reviewed literature for you to present the pathogen in an evolutionary or ecological context.  Following standard scientific presentation formats, your presentation should last 12 minutes, and we will provide 5 minutes for questions from the audience. 
 
-Your presentation should begin with an overview of the basic natural history of your pathogen. Where was it first discovered? Has it spread geographically? What is know about vectors and reservoir hosts? What is the scale of human disease? And then it should expand into issues of ecology, especially as these have been presented in primary literature. I recommend using graphs from primary literature (with sources). The best presentations will end with your interpretation of future research directions, and when relevant a discussion of appropriate social policy on combating this pathogen.
+Your presentation should begin with an overview of the basic natural history of your pathogen. Where was it first discovered? Has it spread geographically? What is know about vectors and reservoir hosts? What is the scale of human disease? And then it should expand into issues of ecology and evolutionary biology, especially as these have been presented in primary literature. I recommend using figures from primary literature, with sources in a bottom corner of a slide. These should be done so that the audience could take a quick note and recover the paper. For example: Grubaugh et al. 2017 /Nature/ is better than https://doi.org/10.1038/nature22400 or https://www.nature.com/articles/nature22400?sf82144874=1, even though all three reference the same article.  The best presentations will end with your interpretation of future research directions, and when relevant, a discussion of appropriate social policy towards combating this pathogen.
 
-There will be two rounds of show and tell a pathogen for each weekly meeting between week 3 and week 13. During week 14, there will be three rounds. I will demonstrate a Show and Tell A Pathogen during week 2.
+There will be two rounds of show and tell a pathogen for each weekly meeting between week 3 and week 12. During weeks 13 and 14, there will be three rounds. I will demonstrate a Show and Tell A Pathogen during week 2.
 
 ### Weekly Journal Paper Discussion
-Between weeks 2 and 13, we will discuss a series of peer-reviewed scientific articles that center on a major conceptual theme in disease ecology. For each week, I have assigned a series of principle readings. All students are required to read these articles. Reading primary literature is quite different than reading the textbook, and requires a much different level of engagement. Even experienced senior academic scientists need to read most primary literature papers several times, and have to look up terms and techniques. Do not plan on lightly skimming the paper and hoping that lab discussion goes well….it won’t. (And recall that most of your grade is determined by how well you participate in discussion). It goes without saying that you should bring either a printout or digital copy of the papers with copious annotations and notes that you have taken. It is also likely that you have had to look up several terms, topics, and methods from the paper. Please note that a reasonable understanding the methods is part of a comprehensive reading.
+Between weeks 2 and 13, we will discuss a series of peer-reviewed scientific articles that center on a major conceptual theme in disease ecology. For each week, I have assigned a series of principle readings. All students are required to read these articles. Reading primary literature is quite different than reading a textbook, and requires a much different level of engagement. Even experienced senior academic scientists need to read most primary literature papers several times, and have to look up terms and techniques. Do not plan on lightly skimming the paper and hoping that lab discussion goes well….it won’t. (And recall that most of your grade is determined by how well you participate in discussion). It goes without saying that you should bring either a printout or digital copy of the papers with copious annotations and notes that you have taken. It is also likely that you have had to look up several terms, topics, and methods from the paper. Please note that a reasonable understanding the methods is part of a comprehensive reading. Reading the assigned papers will probably take you 3–5 hours per week.
 
-Each week, two of you will be “discussion leaders”. The job of the discussion leader is to begin with a general overview of the topic material. You can use the “background articles that I provide for some material, but I encourage you to do your own research. Typically, this would begin with a mini-lecture to the class of the topic that you are presenting. Such a lecture would typically last 10-20 minutes. Afterwards, the discussion leaders should facilitate a classroom discussion of the two papers. Often, but not always, the papers are better discussed sequentially. But don’t forget that the two papers are related by a shared topic; it will not be uncommon to discuss findings from paper 2 during a discussion of paper 1, or *vice versa*.  One strategy is to present some of the most impactful figures from the paper, and ensure that the class fully understands the information that they convey. These figures are useful for discussion of methods, results, and significance of the results.
+Each week, two (or three) of you will be “discussion leaders”. The job of the discussion leader is to begin with a general overview of the topic material. You can use the “background articles that I provide for some material, but I encourage you to do your own research. Typically, this would begin with a mini-lecture to the class of the topic that you are presenting. Such a lecture would typically last 15-20 minutes. Afterwards, the discussion leaders should facilitate a classroom discussion of the two papers. Often, but not always, the papers are better discussed sequentially. But don’t forget that the two papers are related by a shared topic; it will not be uncommon to discuss findings from paper 2 during a discussion of paper 1, or *vice versa*.  One strategy is to present some of the most impactful figures from the paper, and ensure that the class fully understands the information that they convey. These figures are useful for discussion of methods, results, and significance of the results.
 
-The job of the facilitators is to move the discussion forward. We typically will have about 90 minutes for discussion; and I expect the discussion to generally last that long. If discussion stalls, I will step in an help facilitate things. But that generally suggests poor preparation on the part of the presenters and the rest of the class.
+The job of the discussion leaders is to move the discussion forward. We typically will have about 90 minutes for discussion; and I expect the discussion to generally last that long. If discussion stalls, I will step in and help facilitate things. But that generally suggests poor preparation on the part of the presenters and the rest of the class.
 
 ### Poster Session
-Using your Show and Tell a Pathogen, create a poster that identifies important evo-ecological themes relating to your pathogen. The best posters will take figures from primary literature to illustrate a research narrative; will incorporate one or several of the topics that we have discussed during the weekly seminar; and will identify areas where future research is merited and/or will highlight the intersection of pathogen ecology with social, ethical and economic issues. 
+Using your Show and Tell a Pathogen, create a poster that identifies important *evolutionary and ecological* themes relating to your pathogen. The best posters will take figures from primary literature to illustrate a research narrative; will incorporate one or several of the topics that we have discussed during the weekly seminar; and will identify areas where future research is merited and/or will highlight the intersection of pathogen ecology with social, ethical and economic issues. 
 
 ## Grading
 You will be award points in the following manner.
@@ -68,8 +65,8 @@ You will be award points in the following manner.
 Discussion Participation:   260 points   
 Reading Quizzes:	   240 points    
 Paper Discussion Leadership:   200 points    
-Show and Tell A Pathogen Presentation:   150 points   
-Ecology of a Pathogen Poster:   150 points
+Show and Tell A Pathogen Presentation:   200 points   
+Ecology of a Pathogen Poster:   100 points
 
 Point totals between 900 and 1000 will be awarded an “A”; point totals between 800 and 899 will be awarded a “B”; point totals between 700 and 799 will be awarded a “C”; point totals between 650 and 699 will be awarded a “D”. If you receive less than 650 points, your grade for the class will be an “F”.
 
@@ -97,13 +94,8 @@ Please read these four papers. They are in chronological order, so reading them 
 4. Morse, S. S., J. A. K. Mazet, M. Woolhouse, C. R. Parrish, D. Carroll, W. B. Karesh, C. Zambrana-Torrelio, W. I. Lipkin, and P. Daszak. 2012. Prediction and prevention of the next pandemic zoonosis. Lancet 380:1956–1965. [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1249072/Morse2012.pdf)
 
 ### Week 3: Spillover
-
 #### Show and Tell a Pathogen:
-Tabitha B.   *Oropouche Virus*    
-Lauren D.   *Onchocerca volvulus*   
-	
 #### Weekly Discussion Leaders:
-Heather M. and Zac W.
 
 #### Principle Readings:
 1. Plowright, R. K., P. Eby, P. J. Hudson, I. L. Smith, D. Westcott, W. L. Bryden, D. Middleton, P. A. Reid, R. A. McFarlane, G. Martin, G. M. Tabor, L. F. Skerratt, D. L. Anderson, G. Crameri, D. Quammen, D. Jordan, P. Freeman, L.-F. Wang, J. H. Epstein, G. A. Marsh, N. Y. Kung, and H. McCallum. 2015. Ecological dynamics of emerging bat virus spillover. Proc. Biol. Sci. 282:20142124. [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1249086/Plowright2015.pdf)
@@ -116,12 +108,7 @@ Heather M. and Zac W.
 ### Week 4: Dilution Effect
 
 #### Show and Tell a Pathogen:
-Preston C.   *Mayaro Virus*    
-Chloe D.	*Rickettsia rickettsia*    
-
 #### Weekly Discussion Leaders:
-Cole B. and Lauren D.
-
 #### Principle Readings:
 1. Civitello, D. J., J. Cohen, H. Fatima, N. T. Halstead, J. Liriano, T. A. McMahon, C. N. Ortega, E. L. Sauer, T. Sehgal, S. Young, and J. R. Rohr. 2015. Biodiversity inhibits parasites: Broad evidence for the dilution effect. Proc. Natl. Acad. Sci. U. S. A. 112:8667–8671. [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1249260/Civitello2015.pdf)
 2. Johnson PTJ, Preston DL, Hoverman JT, Richgels KLD. Biodiversity decreases disease through predictable changes in host community competence. Nature 2013; 494(7436): 230-3. [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1249261/Johnson2013.pdf)
@@ -133,12 +120,7 @@ Cole B. and Lauren D.
 ### Week 5: Deforestation Effect 
 
 #### Show and Tell a Pathogen:
-Michelle P.    *Leishmania spp*.     
-Parker K.   *Lassa Virus*     
-
 #### Weekly Discussion Leaders:
-Sheila N. , James R, Cole M., and Adam S.
-
 #### Principle Readings:
 1. Vittor, A. Y., W. Pan, R. H. Gilman, J. Tielsch, G. Glass, T. Shields, W. Sánchez-Lozano, V. V. Pinedo, E. Salas-Cobos, S. Flores, and J. A. Patz. 2009. Linking deforestation to malaria in the Amazon: characterization of the breeding habitat of the principal malaria vector, *Anopheles darlingi*. Am. J. Trop. Med. Hyg. 81:5–12. [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1249375/Vittor2009.pdf)
 2. Pienkowski, T., B. L. Dickens, H. Sun, and L. R. Carrasco. 2017. Empirical evidence of the public health benefits of tropical forest conservation in Cambodia: a generalised linear mixed-effects model analysis. The Lancet Planetary Health 1:e180–e187. [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1249373/Pienkowski2017.pdf)
@@ -151,14 +133,7 @@ A. Vittor. [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1249374/TuckerL
 ### Week 6: Evolution of Virulence
 
 #### Show and Tell a Pathogen:
-Kevin L.   *West Nile Virus*    
-Adam S.   *Taenia solium*    
-
 #### Weekly Discussion Leaders:
-Abby H. and Muneeb A.
-
-This week’s readings are quite interesting, as they present two different evolutionary pathways for an evolutionary of virulence in vector-borne disease.
-
 #### Principle Readings:
 1. Rico-Hesse, R., L. M. Harrison, R. A. Salas, D. Tovar, A. Nisalak, C. Ramos, J. Boshell, M. T. de Mesa, R. M. Nogueira, and A. T. da Rosa. 1997. Origins of dengue type 2 viruses associated with increased pathogenicity in the Americas. Virology 230:244–251. [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1249435/Rico-Hesse1997.pdf)
 2. Liu, Y., J. Liu, S. Du, C. Shan, K. Nie, R. Zhang, X.-F. Li, R. Zhang, T. Wang, C.-F. Qin, P. Wang, P.-Y. Shi, and G. Cheng. 2017. Evolutionary enhancement of Zika virus infectivity in *Aedes aegypti* mosquitoes. Nature 545:482–486. [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1249433/Liu2017.pdf)
@@ -169,12 +144,8 @@ This week’s readings are quite interesting, as they present two different evol
 
 ### Week 7: Globalization and disease
   
-#### Show and Tell a Pathogen:
-Cole B. *Ebola Virus*    
-Will D.   *???????*    
- 
+#### Show and Tell a Pathogen 
 #### Weekly Discussion Leaders:
-Marie L. and Michelle P.
 
 #### Principle Readings:
 1. Bryant, J. E., E. C. Holmes, and A. D. T. Barrett. 2007. Out of Africa: a molecular perspective on the introduction of yellow fever virus into the Americas. PLoS Pathog. 3:e75. [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1250393/Bryant2007.pdf)
@@ -185,12 +156,8 @@ Marie L. and Michelle P.
 
 ### Week 8: Urban - Forest Disease Dynamics
 
-#### Show and Tell a Pathogen:
-Marie L.   *Nipah Virus*     
-James R.   *Chikungunya Virus*    
-
+#### Show and Tell a Pathogen:   
 #### Weekly Discussion Leaders:
-Sydney G. and Jay L.
 
 #### Principle Readings:
 1. Althouse, B. M., N. Vasilakis, A. A. Sall, M. Diallo, S. C. Weaver, and K. A. Hanley. 2016. Potential for Zika Virus to Establish a Sylvatic Transmission Cycle in the Americas. PLoS Negl. Trop. Dis. 10:e0005055. [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1250336/Althouse2016.pdf)
@@ -205,17 +172,12 @@ Ask yourself what is surprising about the findings in paper 3. Page 673 of [this
 
 ### Week 9: Climate change and emerging disease
 
-#### Show and Tell a Pathogen:
-Sheila N.   *Hanta Virus*    
-Lauren M.   *Orientia tsutsugamushi*    
-
+#### Show and Tell a Pathogen: 
 #### Weekly Discussion Leaders:
-Tabitha B. and Katie O.
 
 #### Principle Readings:
 1. Garza, M., T. P. Feria Arroyo, E. A. Casillas, V. Sanchez-Cordero, C.-L. Rivaldi, and S. Sarkar. 2014. Projected future distributions of vectors of *Trypanosoma cruzi* in North America under climate change scenarios. PLoS Negl. Trop. Dis. 8:e2818. [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1250375/Garza2014.pdf)
 2. Daszak, P., C. Zambrana-Torrelio, T. L. Bogich, M. Fernandez, J. H. Epstein, K. A. Murray, and H. Hamilton. 2013. Interdisciplinary approaches to understanding disease emergence: the past, present, and future drivers of Nipah virus emergence. Proc. Natl. Acad. Sci. U. S. A. 110 Suppl 1:3681–3688. [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1250377/Daszak2013.pdf)
-
 
 #### Background Readings:
 1. Kovats, R. S., D. H. Campbell-Lendrum, A. J. McMichel, A. Woodward, and J. St H. Cox. 2001. Early effects of climate change: do they include changes in vector-borne disease? Philos. Trans. R. Soc. Lond. B Biol. Sci. 356:1057–1068. [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1250376/Kovats2001.pdf)
@@ -223,12 +185,8 @@ Tabitha B. and Katie O.
 
 ### Week 10: Urbanization and disease
 
-#### Show and Tell a Pathogen:
-Cole M.     *Plasmodium falciparum*    
-Sydney G.   *Trypanosoma brucei*    
-
+#### Show and Tell a Pathogen: 
 #### Weekly Discussion Leaders:
-Kristin K., Chloe D., Parker K., and Lauren M.
 
 #### Principle Readings:
 1. Bayer, A. M., G. C. Hunter, R. H. Gilman, J. G. Cornejo Del Carpio, C. Naquira, C. Bern, and M. Z. Levy. 2009. Chagas disease, migration and community settlement patterns in Arequipa, Peru. PLoS Negl. Trop. Dis. 3:e567. [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1250387/Bayer2009.pdf)
@@ -238,24 +196,19 @@ Kristin K., Chloe D., Parker K., and Lauren M.
 1. Hotez, P. J. 2017. Global urbanization and the neglected tropical diseases. PLoS Negl. Trop. Dis. 11:e0005308. [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1250386/Hotez2017.pdf)
 2. Borroto, R. J., and R. Martinez-Piedra. 2000. Geographical patterns of cholera in Mexico, 1991–1996. Int. J. Epidemiol. 29:764–772.  [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1250388/Borroto2000.pdf)
 
-###  Week 11 (Guest speaker: Dr. Jose Loaiza, INDICASAT-AIP, Panama and the Smithsonian Tropical Research Institute also a profesor at the University of Panama)
+###  Week 11 (TBA)
 
-#### Show and Tell a Pathogen:
-Muneeb A.   *Babesia sp.*   
-Jay L.   *Yellow Fever Virus*   
+#### Show and Tell a Pathogen:  
 
-Dr Loaiza will present his research. The paper that he and I would like you to read is:
+#### Principle Readings:
+#### Background Readings:
 
-1.  Miller MJ, Loaiza JR. Geographic expansion of the invasive mosquito Aedes albopictus across Panama—Implications for control of dengue and chikungunya viruses. PLoS neglected tropical diseases. 2015 Jan 8;9(1):e0003383. [[PDF]](http://www.stri.si.edu/sites/publications/PDFs/2015_Miller_Loaiza_Plos-Neg.pdf)
 
 ### Week 12: One Health
 
 #### Show and Tell a Pathogen:
-Katie O.   *Crimean-Congo Hemorrhagic Fever Virus*    
-Heather M.   *Borrelia burgdorferi*   
-
 #### Weekly Discussion Leaders:
-Kevin L. and Justin A.
+
 
 #### Principle Readings:
 1. Gibbs, E. P. J. 2014. The evolution of One Health: a decade of progress and challenges for the future. Vet. Rec. 174:85–91. [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1250403/Gibbs2014.pdf)
@@ -268,11 +221,7 @@ Kevin L. and Justin A.
 ### Week 13: Conservation medicine 
 
 #### Show and Tell a Pathogen:
-Zac W.   *Dengue Virus*
-Abby H.  *Trypanosoma cruzi*
-
 #### Weekly Discussion Leaders:
-Will D. and Preston C.
 
 #### Principle Readings:
 Here we have two data papers from the same region – the Brazilian Amazon, that reach apparently different conclusions about the role of biodiversity conservation in human health. The final paper, gives a realistic, sobering, review of what we know.
@@ -282,7 +231,7 @@ Here we have two data papers from the same region – the Brazilian Amazon, that
 3. Kilpatrick, A. M., D. J. Salkeld, G. Titcomb, and M. B. Hahn. 2017. Conservation of biodiversity as a strategy for improving human health and well-being. Philos. Trans. R. Soc. Lond. B Biol. Sci. 372. [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1250408/Kilpatrick2017.pdf)
 
 #### Background Readings:
-For paper 1, please note the author set here. Compare the third author’s point of view in 2004 with his in 2017 (above).
+For paper 1, please note the author set here. Compare the third author’s viewpoint in 2004 with his in 2017 (above).
 
 1. Daszak, P., G. M. Tabor, A. M. Kilpatrick, J. Epstein, and R. Plowright. 2004. Conservation medicine and a new agenda for emerging diseases. Ann. N. Y. Acad. Sci. 1026:1–11. [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1250410/Daszak2004.pdf)
 2. Murray, K. A., and P. Daszak. 2013. Human ecology in pathogenic landscapes: two hypotheses on how land use change drives viral emergence. Curr. Opin. Virol. [[PDF]](https://github.com/mjmillerlab/Biol4983/files/1250411/Murray2013.pdf)
@@ -290,10 +239,7 @@ For paper 1, please note the author set here. Compare the third author’s point
 ### Week 14: ACAT Testing
 
 #### Show and Tell a Pathogen:
-Kristin K.   *Sindbis Virus*
-Justin A.    *Bartonella spp.*
-
-After Show and Tell presentations, the Biology Department will administer it’s ACAT test. ACAT stands for “Area Concentration Achievement Test” and it is a standard sort of achievement test, like you probably recall from high school. The test is not an exit exam and it does not affect your grade in this course, nor your ability to graduate. Rather, it provides the Undergraduate Studies Program with useful information about what subjects students seem to know well and which they seem to need more experience in.
+After Show and Tell presentations, the Biology Department will administer its ACAT test. ACAT stands for “Area Concentration Achievement Test” and it is a standard sort of achievement test, like you probably recall from high school. The test is not an exit exam and it does not affect your grade in this course, nor your ability to graduate. Rather, it provides the Undergraduate Studies Program with useful information about what subjects students seem to know well and which they seem to need more experience in.
 
 ### Week 15: Poster Session 
 This week we will display each of your posters in a post session, similar to what you would experience at a research conference. More details to follow.
@@ -303,7 +249,7 @@ This week we will display each of your posters in a post session, similar to wha
 2. Middle East Respiratory Syndrome Coronavirus
 3. West Nile Virus
 4. Yellow Fever Virus
-5. Sindbis Virus
+5. Sindhis Virus
 6. Crimean-Congo Hemorrhagic Fever Virus
 7. Rift Valley Fever Virus
 8. Dengue Virus
@@ -329,7 +275,7 @@ This week we will display each of your posters in a post session, similar to wha
 ### Attendance and Make-up Assignments:
 This course only meets once per week, so attendance is mandatory. 100 points (including the missed reading quiz points) will be deducted from your final grade for each class missed after the first absence (if 3 classes are missed, 200 points will be deducted from your final grade; if one class is missed, no points will be deducted but participation points from that class will be forfeited). If you miss four or more classes, you will receive an “F” as your course grade. 
 
-Likewise, reading quizzes start promptly at 6:30 PM, and last 10 minutes. We cannot postpone discussion to allow you to “have extra time” if you show up late for class. There are no make up opportunities for reading quizzes for which you arrive late.
+Likewise, reading quizzes start promptly at 1:30 PM, and last 10 minutes. We cannot postpone discussion to allow you to “have extra time” if you show up late for class. There are no make up opportunities for reading quizzes for which you arrive late.
  
 I will make every effort to find a reasonable accommodation for students who miss class (and any associated participation points) as a result of participation in Provost-approved University-sponsored activities (such as scholarly competitions, fine arts performances, intercollegiate athletics competitions, and academic field trips, etc.), religious observances, or legally required activities such as emergency military service and jury duty. Medical emergencies may or may not be accommodated, depending on the nature of the circumstance. Written documentation should be provided to the instructor at least one week prior to the event in order for accommodations to be made.
  
